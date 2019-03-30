@@ -55,7 +55,8 @@ Personality Type: (I-S-T-J)
 
 <h1>Rav</h1>
 
-<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Rav will need to get us the link to his profile -->
+<a href="https://s3330554.github.io/">GitHub Profile</a> <!--Rav will need to get us the link to his profile -->
+<!-- UPDATE 31.3.19 Rav provided the link to his profile and I added it above -->
 
 Personality Type:(ISTJ-a)
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
