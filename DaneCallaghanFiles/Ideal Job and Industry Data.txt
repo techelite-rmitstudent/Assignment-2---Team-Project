@@ -1,0 +1,19 @@
+Ideal Job Comparison <!-- This page is created to cover the ideal jobs and industry data section of the assignment guide-->
+
+<h1>Team member's ideal jobs</h1>
+
+<p>
+
+Jon - Software Engineer/ Solutions Architect
+
+Dane - Senior Financial Planner
+
+Jaime - Systems Administrator
+
+Damian - IT Consultant
+
+Rav - Network Engineer
+
+Aaron - <!-- Aaron has not yet given his GitHub link or responded to the task discussions on Canvas 31.3.19 -->
+
+</p>
