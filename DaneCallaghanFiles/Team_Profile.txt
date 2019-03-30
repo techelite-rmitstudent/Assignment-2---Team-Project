@@ -1,0 +1,80 @@
+TECH ELITES
+<p>
+<!-- Not exactly sure what to write here. I think Jon's idea to have an intro is great. Maybe we can all decide as a group what to write here. Not complete as of 28.3.19 @ 3:49 AM.-->
+
+"Introducing Group of IT students .....
+
+which will be the .......
+
+..... knowledge and experience
+
+......... so future will be........"
+</p>
+
+<p>
+<h2>MEMBERS,/h2>
+
+<h1>Jon Ara</h1>
+
+<a href="https://xirtaminteractive.github.io/">GitHub Profile</a> 
+
+Personality Type: (EnFJ-A)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+<br/>
+
+<h1>Dane Callaghan</h1>
+
+<a href="https://danecallaghan.github.io/DaneCallaghan/">GitHub Profile</a>
+
+Personality Type: (I-S-T-J)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<br/>
+
+<h1>Damian Gaffey</h1>
+
+<a href="https://damian-gaffey.github.io/Myprofile/">GitHub Profile</a>
+
+Personality Type: ( )<!-- Damian's profile currently just says "Defender". We will need the result from the human metrics test-->
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<h1>Jaime Salgado</h1>
+
+<a href="jaimesalgado14.github.io">GitHub Profile</a>
+
+Personality Type: (I-S-T-J)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their personal profile-->
+
+<h1>Rav</h1>
+
+<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Rav will need to get us the link to his profile -->
+
+Personality Type:(ISTJ-a)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<h1>Aaron Bowden</h1> <!-- I have included Aaron for now until we confirm that he is inactive. I can update with his info if he contacts us -->
+
+<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
+
+Personality Type: <!-- Will update once Aaron makes contact -->
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<h2>GROUP STRENGTH</h2>
+<p>
+The results of the personality tests are important as they show how people interact, learn and behave. Having this information helps the team understand each other better. This can be useful when discussing or presenting new ideas, assigning tasks and making sure everyone understands their role.
+<!-- I think this section should be done as a group, maybe we can all write a quick summary of how we interpret the personality test results and collectively vote on what to put here -->
+</p>
+
+</p>
