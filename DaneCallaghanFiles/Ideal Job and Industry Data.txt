@@ -17,3 +17,83 @@ Rav - Network Engineer
 Aaron - <!-- Aaron has not yet given his GitHub link or responded to the task discussions on Canvas 31.3.19 -->
 
 </p>
+<br/>
+<p>
+<!-- I found this website that has a great resource for ICT job comparison  <https://www.careersfoundation.com.au/?gclid=CjwKCAjwp_zkBRBBEiwAndwD9XlBeCsn7M2UyvKYqP9042AJoOz9hytzQcsihTYRcL2pPdDw4iXVgRoCYo0QAvD_BwE ma> Maybe we can use items from this in a picture type display and write a comparison underneath -->
+
+Job Description and Requirements
+
+Software Engineer:
+Degree:
+Undergraduate:
+    Bachelor of Computer Science
+    Bachelor of Information Technology
+    Bachelor of Information Systems 
+
+Skills: Programming, Computer Aided Software Engineering (CASE), Troubleshoot and debugging skills, Communication skills
+
+Salary: 50k - 100k
+
+Senior Financial Planner:
+Degree:
+Undergraduate:
+    Bachelor of Business (Financial Planning)    
+    Bachelor of Commerce    
+    Bachelor of Economics
+    Diploma of Financial Planning also currently required for compliance with RG146
+
+Skils: Communication, Listening,  Analytical skills, Persuasion, Negotiation, Research, Excellent written and verbal skills 
+
+Salary: 80k-150k
+
+Systems Administrator:
+Degree:
+Undergraduate:
+    Bachelor of Computer Science
+    Bachelor of Software Engineering
+    Bachelor of Information Technology 
+
+Skills: Programming, Data structuring, Systems design and management.
+
+Salary: 70k - 130k
+
+IT Consultant
+Degree:
+Undergraduate:
+    Bachelor of Information Technology
+    Bachelor of Business     
+
+Skills: Industry relevant knowledge, communication skills, interpersonal skills
+
+Salary: 36k - 75k
+
+Network Engineer:
+Degree:
+Undergraduate:
+    Bachelor of Information Technology 
+    Certification: CISCO certification in CCNA and/or CCNP 
+
+Skills: Analytic techniques, Design and configuration of Network Systems
+
+Salary: 70k - 124k
+
+<!-- USE THIS SECTION TO PUT AARON'S IDEAL JOB ONCE HE LETS US KNOW NOT YET SUPPLIED 31.3.19-->
+
+Job Comparison
+
+Apart from the position of Senior Financial Planner, the jobs listed above have similar requirements as shown below:
+
+- Common Education: All jobs require a degree, and share the Bachelor of IT as a common requirement. Other specialty courses are applicable to each job too, such as extra certification.
+
+- Common Skills: Communication, Programming, Analytical, Knowlegde of IT systems
+
+- Salary: The all have similar ranges of salary that will vary depending on experience and role within that discipline.
+
+- Differences: The obvious outlayer is Financial Planning as it's a completely different industry. Each of the other jobs will require specialist knowledge that will be unique to that position. A Network Engineer is likely to have a deeper understanding of network structure compared to a software engineer who will specialise in building software. The IT consultant will have a broad but limited overall knowledge of both.
+
+Whilst the group's career plans share some similarities, there are distinct differences that separate the long term pathways.
+
+</p>
+
+
+<!-- We can reference the site I used to get the above data - https://www.careersfoundation.com.au -->
