@@ -1,18 +1,82 @@
 Industry Data - Burning Glass <!-- Created to address specifically the Industry Data section -->
 
-•	What are the Job Titles for your group's ideal jobs? 
-	How do each of these rank in terms of demand from employers?
+•	<h1>What are the Job Titles for your group's ideal jobs?</h1>
+
+	Jon - Software Engineer/ Solutions Architect
+
+	Dane - Senior Financial Planner
+
+	Jaime - Systems Administrator
+
+	Damian - IT Consultant
+
+	Rav - Network Engineer
 	
-•	From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group's required skill set). 
-	These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).
+	<h1>How do each of these rank in terms of demand from employers?</h1>
 	
-o	How do the IT-specific skills in your required skill set rank in terms of demand from employers?
+	Software Engineer/ Solutions Architect - This job ranks first on Burning Glass
 
-o	How do the general skills in your required skill set rank in terms of demand from employers?
+	Senior Financial Planner - No related info as it's a different industry <!-- Anthony said to say this on the Q&A thread 	for a group in a similar position, they even had a financial planner in the group-->
 
-o	What are the three highest ranked IT-specific skills which are not in your required skill set?
+	Systems Administrator - This job ranks 8th on Burning Glass
 
-o	What are the three highest ranked general skills which are not in your required skill set?
+	IT Consultant - <!-- Find data on this as it's not listed on burning glass -->
+	
+	Network Engineer - This job Ranks 9th on Burning Glass
+	<!--Double check with the group how we want to write this section. Do we want point form like the above or do we want
+	a paragraph type description?-->
+	
+	<h1>From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as 		your group's required skill set)</h1>
 
-•	Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+	<h1>Group's required skill set</h1>
+	
+	<h1>General</h1>
+	- Communication skills
+	- Listening 
+	- Analytical skills
+	- Persuasion
+	- Negotiation
+	- Research
+	- Excellent written and verbal skills 
+	- interpersonal skills
+	- Relationship building
+	- Customer Service
+	
+	<h1>IT Specific</h1>
+	- Programming
+	- Computer Aided Software Engineering (CASE)
+	- Troubleshoot and debugging skills
+	- Data structuring, 
+	- Systems design and management
+	- Industry relevant knowledge
+	- Design and configuration of Network Systems
+	- SQL
+	- Javascript
+	- MS Windows/Office
+	- Java
+	
+	<!-- Add more skills that the group thinks we need here. Use the Burning Glass reports to list more -->
+	<!--These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).-->
+	
+	<h1>How do the IT-specific skills in your required skill set rank in terms of demand from employers?</h1>
+	According to the Burning Glass report, the majority of our group's required skillset ranks highly from employers.
+	
+	<!-- Expand on this-->
+	
+	<h1>How do the general skills in your required skill set rank in terms of demand from employers?</h1>
+	According to the Burning Glass report, the majority of our group's required skillset ranks highly from employers.
+	
+	<!-- Expand on this-->
+	
+	<h1>What are the three highest ranked IT-specific skills which are not in your required skill set?</h1>
+	
+	<!-- Complete this section after discussing with the group about what our skill set is -->
+
+	<h1>What are the three highest ranked general skills which are not in your required skill set?</h1>
+	
+	<!-- Complete this section after discussing with the group about what our skill set is -->
+
+	Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+	
+	<!-- Will this section just be an indiviual response? NEED TO CONFIRM WITH GROUP 31.3.19-->
 
