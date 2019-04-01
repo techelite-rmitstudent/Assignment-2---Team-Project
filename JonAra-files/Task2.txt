@@ -1,0 +1,17 @@
+
+GitHub Group Organization Account Link is created: 
+"techelites-rmitstudents"
+
+My Comments:
+- the link to group website: I have created my file folder in the repository for project item for building the group website 
+that I created so that the group Overseers can then have easy access and transfer my work to the main project folder. 
+(Note: Changes in the main project is the most crucial situation in building a software or a website with group of people. 
+Only overseers of the task should update or do some changes in the main project object. This will minimize debug error, 
+and group members will communicate in organised manner.)
+
+- the link to your group's Git repository (GitHub): I have installed my GitHub Desktop to help me organised my Git Repository 
+Group links and also for other easy option in commit and push my work to my folder in repository I been using the GitHub Bush CMD pane.
+
+- how well the audit trail on the Git repository reflects the group's work?: 
+I have not seen it yet but I trust that all members do their best to give work 
+efforts to complete the group assignments.
