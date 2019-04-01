@@ -1700,6 +1700,13 @@ body {
 .cid-rlXvP1Saho {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-rlXvP1Saho SPAN {
+  color: #cccccc;
+}
+.cid-rlXvP1Saho .mbr-text,
+.cid-rlXvP1Saho .mbr-section-btn {
+  color: #c1c1c1;
+}
 .cid-rlYICNpUuT {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -1861,6 +1868,17 @@ body {
   color: #cccccc;
 }
 .cid-rlY5xYMBFl H4 {
+  color: #cccccc;
+}
+.cid-rmbHLcZwTy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-rmbHLcZwTy .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmbHLcZwTy H2 {
   color: #cccccc;
 }
 .cid-rlY6VxzO16 {
