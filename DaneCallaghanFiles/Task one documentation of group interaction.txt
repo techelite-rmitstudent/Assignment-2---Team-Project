@@ -53,15 +53,15 @@ Unanimous selected Tool for Personality test.
         
     Jaime Salgado
         Voted for Team Name
-        Provide the link to his Profile: jaimesalgado14.github.io/
+        Provide the link to his Profile: https://jaimesalgado14.github.io/
         Has not yet provided the folder files of his Profile Assignment 1 in canvas.<!-- Included just in case you do-->
         Voted for group repository
         Personality Test : Voted <!-- Not sure if this is what we want, or we want the actual result here -->
         
     Rav
         Voted for Team Name
-        Not yet provided the link to his Profile:<!-- Included just in case you do-->
-        Has not yet provided the folder files of his Profile Assignment 1 in canvas.<!-- Included just in case you do-->
+        Not yet provided the link to his Profile:https://s3330554.github.io/ 
+        Provided the folder files of his Profile Assignment 1 in canvas.
         Voted for group repository
         Personality Test : Voted and supplied results and comments
         
