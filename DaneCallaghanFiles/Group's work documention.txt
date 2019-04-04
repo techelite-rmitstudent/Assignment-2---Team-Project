@@ -16,3 +16,4 @@ We agreed that we need to clarify with Anthony what the exact requirements of th
 We compared what we thought was required for a few sections such as the ideal jobs, tools and the process for group work on GitHub.
 
 </p>
+<!-- 5.04.19 - Go completely through every Canvas forum and document everything -->
