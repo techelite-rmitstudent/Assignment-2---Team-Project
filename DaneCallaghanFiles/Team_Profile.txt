@@ -22,7 +22,7 @@ which will be the .......
 
 Personality: (EnFJ), (ESTJ) Protagonist, Executive, Analytical, Organized, Sequential, Detailed Oriented, Quite Determine, Sharp Mind, Logical Thinker
 
-Extravert(9%)  iNtuitive(44%)  Feeling(9%)  Judging(19%)
+Extravert(9%)  Intuitive(44%)  Feeling(9%)  Judging(19%)
 
 Learning Style: Research-Finder, Self-learning, Quick Learner, Visual Learner, Tactile Learner
 
