@@ -1,0 +1,37 @@
+I watched some video's on youtube searching for Life as an IT professional to be able to gain an insight into the day to day running in the industry I will link the video's below.
+
+The first person talks about what he does on a day to day basis.
+
+Works with Microsoft products like windows, windows server, and runs a ticketing system for IT related problems.
+
+The tasks he does is checking tickets, going out in the field making user accounts and account management with access and active directory.
+
+Day to day life varies and no day is the same he sumarises that he is an IT services technician and pretty much does everything.
+
+The second person started his IT career in the navy and describes how even if you don't have a technological background you still need to learn how to use computers.
+
+He studied IT at university and it was more about theory where as being in the navy it was more hands on.
+
+He works in the customer service department where he helps customers troubleshoot their problems at home for an internet service provider.
+
+Helping people get back online and setup their own home networks and collates with various departments in the company to help customers with their problems.
+
+He communicates with customers and has to work out which department is needed to solve the issue as may need to send a field technician to customer's premises or if it's a network problem.
+
+His key skills would be: Customer service, working in a team, Communication, Problem solving, to help customers get back to using their service as quick as possible.
+
+The third person I viewed is a software engineer who works for a company that is a home services supplier.
+
+Her work is more to being web developement and explains that their backend systems is written in python and the front end or website is html java and css.
+
+The team she works in writes alot of code and in a fast paced environment where they push and implement it into their various systems then go back and kill all the bugs with their code.
+
+Her knowledge would be able to fluently write html java and css along with python and other various programming languages.
+
+Video links:
+
+Vid1: https://www.youtube.com/watch?v=om8AygYdrto
+
+Vid2: https://www.youtube.com/watch?v=PCmkTcFYrX8
+
+Vid3: https://www.youtube.com/watch?v=vt79JcPfZQA
