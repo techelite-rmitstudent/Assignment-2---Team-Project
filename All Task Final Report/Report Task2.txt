@@ -25,7 +25,11 @@ Jonathan Aragones:
 
 Dane Callaghan:
 •	Group GitHub Linked: Member
+<<<<<<< HEAD:Task Final Report/Report Task2.txt
 •	Created Workspace Folder: (NO)
+=======
+•	Created Work Effort Folder: Yes
+>>>>>>> ceae231341d932c675ce76a439ae8f20fd124cd1:All Task Final Report/Report Task2.txt
 •	Provided Comments: Yes
 
 Damian Gaffey

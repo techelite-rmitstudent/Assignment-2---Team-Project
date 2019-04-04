@@ -1,0 +1,77 @@
+<h1>TASK 1 DOCUMENTATION REPORT</H1>
+
+<p>
+
+<h1>Assignment 2 - (Task 1 | Team Profile)</h1>
+
+<h1>Task 1 Overseer<h1>
+
+"Dane Callaghan"
+<h1> Dane's Comments<
+Jon created a discussion thread in our Canvas group for Task 1 and suggested a format to follow to collect each members 
+info for the task. This allowed all members of the group to contribute their suggestions for the group name, tools and tests to use, along
+with the link to their GitHub profile and personal information. Each member contributed to this discussion by providing all
+of the required information and upadating the work status once complete. Aaron didn't make contact, but we are all hopefully he
+does soon. Various members suggested methods of how to complete certain tasks, and provided guidance to members that needed it.
+Overall there was reall great participation from everyone except Aaron.
+<!-- Let me know if you think we need more/less here or if there is anything you feel is important to document -->
+
+Unanimous selected Team Name:
+
+" TechElites "
+
+Unanimous selected Group Git Repository:
+
+"GitHub"
+
+Unanimous selected Tool for Personality test.
+
+" http://www.humanmetrics.com/cgi-win/jtypes2.asp "
+
+<h1>Group Contribution</h1>
+
+    Jonathan Aragones: 
+        Team Name: Voted
+        Provide the link to his Profile:  https://xirtaminteractive.github.io/
+        Provided the clone link to Github for his MyProfile folder files in canvas.
+        Group repository: Voted
+        Personality Test : Voted and supplied results and comments
+        Ideal Job Comments: Complete
+                
+    Dane Callaghan:
+        Voted for Team Name
+        Provide the link to his Profile: https://danecallaghan.github.io/DaneCallaghan/
+        Provided the folder files of his Profile Assignment 1 in canvas.
+        Voted for group repository
+        Personality Test :Voted and supplied results and comments
+        Ideal Job Comments: Complete
+        
+    Damian Gaffey
+        Voted for Team Name
+        Provide the link to his Profile:  https://damian-gaffey.github.io/Myprofile/
+        Provided the folder files of his Profile Assignment 1 in canvas.
+        Voted for group repository
+        Personality Test : Voted <!-- Not sure if this is what we want, or we want the actual result here -->
+        
+    Jaime Salgado
+        Voted for Team Name
+        Provide the link to his Profile: https://jaimesalgado14.github.io/
+        Has not yet provided the folder files of his Profile Assignment 1 in canvas.<!-- Included just in case you do-->
+        Voted for group repository
+        Personality Test : Voted <!-- Not sure if this is what we want, or we want the actual result here -->
+        
+    Rav
+        Voted for Team Name
+        Not yet provided the link to his Profile:https://s3330554.github.io/ 
+        Provided the folder files of his Profile Assignment 1 in canvas.
+        Voted for group repository
+        Personality Test : Voted and supplied results and comments
+        Ideal Job Comments: Complete
+        
+    Aaron Bowden
+        Yet to make contact
+        
+<!-- We can update this with anything extra anyone thinks we need to include, let me know what you think -->
+    
+
+</p>

@@ -1,0 +1,18 @@
+<h1>My documentation of the group's and my own contribution</h1>
+<p>
+Make notes here about the Canvas forum interactions and tasks I have specifically completed.
+Things like uploading files to Canvas, linking my repo, creating folder for work in my branch of group repo.
+
+Be sure to acknowledge the work that each member of the group has done, and comment on that.
+
+Complete this in a timeline like manner to reflect on how the GitHub audit trails documents our work.
+</p>
+
+<p>
+30.03.19 - Had a Zoom meeting, there may have been a miscommunication as only Rav and myself attended. We discussed 
+how we were finding the assignment, what we thought about the requirements and how to apporach different sections.
+
+We agreed that we need to clarify with Anthony what the exact requirements of the PDF report and the website are. 
+We compared what we thought was required for a few sections such as the ideal jobs, tools and the process for group work on GitHub.
+
+</p>

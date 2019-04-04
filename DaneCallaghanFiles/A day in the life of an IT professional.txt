@@ -1,0 +1,66 @@
+<!-- This file is for the IT work section of our assignment -->
+
+<h1>A Day In The Life Of An IT Professional</h1>
+
+<p>
+<h1> Web Source One</h1>
+
+Software Engineer:
+
+•	What kind of work is done by the IT professional?
+	
+	Software Engineers use their extensive knowledge of programming languages, engineering principles and IT systems to produce software products that
+	can be used for applications such as interactive games, web pages, robotics, network controls, mobile devices and basically anywhere you would find software. 
+	It is their job to liaise with businesses or people to discuss their needs, then provide a software solution to meet those needs.
+	A Software Engineer needs to address the entire software development lifecycle - to analyse the needs, and then design, test and develop software in order to meet those needs.
+	The following list of duties and responsibilities was taken from the website: https://www.roberthalf.com.au/our-services/it-technology/software-engineer-jobs
+	
+	•	Improving system quality by identifying issues and common patterns, and developing standard operating procedures
+    •	Enhancing applications by identifying opportunities for improvement, making recommendations and designing and implementing systems
+    •	Maintaining and improving existing codebases and peer review code changes
+    •	Liaising with colleagues to implement technical designs
+    •	Investigating and using new technologies where relevant
+    •	Providing written knowledge transfer material
+
+•	What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+
+	This can depend on the type of Software Engineer (SE) they are. Application SE's are more client facing, as it is their job to design and implement
+	software for the client, or the clients customers to interact with.
+	They will also interact with other IT professionals as well as Project Managers, Analysts, Marketing Staff and Test Engineers to ensure
+	the product is delivered as desired and on time.
+	
+•	Where does the IT professional spend most of their time?
+	
+	According to https://readwrite.com/2013/04/25/how-software-developers-really-spend-their-time/ Software Engineers spend their time as shown in the
+	image below:
+	<!-- Add image src here. Image is currently in my Repo called "Software_Engineer_Time_Allocation.jpg" -->
+	
+	
+•	What aspect of their position is most challenging?
+
+	On the website https://halistechnology.com/2015/04/30/the-hardest-part-of-software-development/ it is suggested perhaps the most challenging part
+	being a Software Engineer is communication. They describe the challenges faced when people have different ideas, or that people may have
+	a different understanding of what the actual requirements are. 
+
+References:
+https://www.fullstackacademy.com/blog/what-do-software-engineers-do
+https://www.roberthalf.com.au/our-services/it-technology/software-engineer-jobs
+https://medium.com/@SherrieRose/software-project-team-roles-and-responsibilities-152a7d575759
+https://readwrite.com/2013/04/25/how-software-developers-really-spend-their-time/
+https://halistechnology.com/2015/04/30/the-hardest-part-of-software-development/
+
+<h1>Web Source Two</h1>
+•	What kind of work is done by the IT professional?
+
+•	What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+•	Where does the IT professional spend most of their time?
+•	What aspect of their position is most challenging?
+
+<h1>Web Source Three</h1>
+
+•	What kind of work is done by the IT professional?
+
+•	What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+•	Where does the IT professional spend most of their time?
+•	What aspect of their position is most challenging?
+<p/>

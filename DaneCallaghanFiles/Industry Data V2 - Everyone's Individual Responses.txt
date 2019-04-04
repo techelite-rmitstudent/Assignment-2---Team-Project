@@ -1,0 +1,133 @@
+<!-- This file was created to collect everyone's Industry Data response-->
+
+<h1>Jon</h1>
+
+<p>
+Name: Jon
+
+Ideal Job: Software Engineer/ Solution Architect
+
+Also known as an application programmer, software architect, system programmer/engineer. This job in brief: The work of a software engineer typically includes designing and programming system-level software: operating systems, database systems, embedded systems and so on. They understand how both software and hardware function. The work can involve talking to clients and colleagues to assess and define what solution or system is needed, which means there's a lot of interaction as well as full-on technical work. Software engineers are often found in electronics and telecommunications companies. A computing, software engineering or related higher degree is often needed.
+
+Terms Demand from Employer: Ranking #1 in job posting - "Highest Rank"
+
+Specific IT Skill Required: Microsoft C#, .NET, WPF, HTML5, JavaScript, C++, Libraries, Objective-C or Cocoa
+
+    Microsoft C#: ranking of 5th to the highest
+    .NET: ranking of 7th to the highest
+    HTML5: ranking of 11th to the highest
+    JavaScript: ranking of 2nd to the highest
+    C++:ranking of 27th to the highest 
+    Libraries: Not in Ranking
+    Object-C: ranking of 86th to the highest
+    Cocoa: Not in the ranking
+    WPF(Windows Presentation Foundation): Not in the ranking
+
+General Skill Required: Communication, Analysis, logical thinking, teamwork, leadership and organisational skills attention to detail.
+
+Communication: ranking of 1st, the highest required skill
+
+Organisational: ranking of 3rd to the highest required skill
+
+Analytical: ranking of 17th to the highest required skill
+
+Leadership: ranking of 11th to the highest required skill
+
+Team Work: ranking of 5th to the highest required skill
+
+ 
+
+OTHER 3 General Skills not in my list:
+
+Writing: ranking of 2nd to the highest required skill
+
+Problem Solving: ranking of 4th to the highest required skill
+
+Planning: ranking of 6th the highest required skill
+
+ 
+
+Q:Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+
+A: 	Yes, because there are some areas out of my skill sets which in most job posting are the majority requirements, 
+	however, it does not change my Ideal Job, as on this insight guided me to focus on getting the most require skills and be my target skill set.
+</p>
+
+<h1>Rav</h1>
+<p>
+</p>
+
+<h1>Dane</h1>
+<p>
+Name: Dane
+
+Ideal Job: Senior Financial Adviser
+
+This job in brief: 	Financial planners advise their clients on how to achieve their financial objectives. 
+					Some financial planners provide comprehensive planning services without offering recommendations, 
+					while others offer both planning and transactional services.
+
+Demand from Employers: 	Due to the Royal Commission into financial services and the recommendation to education requirements,
+						a lot of advisers have, or will be leaving the industry. With an estimated 2.1 million people looking
+						to get advice over the next year, the demand for advisers will significantly increase according to www.businessinsider.com.au
+
+Specific IT Skill Required: Microsoft Office (Word, Excel, Powerpoint)
+							X-Plan
+							SalesForce
+							Outlook
+							Chantwest (Superannuation comparison tool)
+							Iress
+							Quoting applications (Indiviual to each provider)
+								
+			
+							
+General Skills Required:- Communication skills
+						- Listening 
+						- Problem Solving
+						- Organisational
+						- Analytical skills
+						- Persuasion
+						- Negotiation
+						- Research
+						- Excellent written and verbal skills 
+						- Interpersonal skills
+						- Relationship building
+						- Customer service
+						- Strong mathematical skills
+						- Time management
+						- Planning
+
+Top Five Ranked Skills
+						
+	Communication: First
+
+	Problem Solving: Second
+
+	Organisational: Third
+
+	Writing: Fourth
+
+	Team Work: Fifth
+
+ 
+3 General Skills not in my list:
+
+	- Creativity
+	- Articulate
+	- Multi Tasking 
+
+Q:Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+
+A: 	Yes, it actually showed me that there are lot more general skills applicable to my chose ideal job. This is great as it demonstrates that I will learn 
+	Valuable skills that are transferrable if I ever wish to change professions.
+</p>
+
+<h1>Damian</h1>
+<p>
+</p>
+<h1>Jaime</h1>
+<p>
+</p>
+<h1>Aaron</h1>
+<p>
+</p>
