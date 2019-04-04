@@ -11,7 +11,9 @@ their workspace folder in the Repository. Changes in the main project is the mos
 software or a website with group of people.Only overseers of the task should update or do some changes in the main 
 project object. This will minimize debug error, and group members will communicate in organised manner. We ask the 
 group to install and be familiar in GitHub Desktop and GitHub CMD pane so when publishing their work into their 
-workspace folder in the respository will be easy for them."
+workspace folder in the respository will be easy for them. I have made every member to be the owner of the repositor
+so that they can access the folder freely. The members are aware of how important not to edit someones workspace so 
+and to be organised on their workspace. The team did really well on this area."
 
 Selected Account Name:
 " TechElites – RMITStudent "
@@ -25,21 +27,17 @@ Jonathan Aragones:
 
 Dane Callaghan:
 •	Group GitHub Linked: Member
-<<<<<<< HEAD:Task Final Report/Report Task2.txt
-•	Created Workspace Folder: (NO)
-=======
-•	Created Work Effort Folder: Yes
->>>>>>> ceae231341d932c675ce76a439ae8f20fd124cd1:All Task Final Report/Report Task2.txt
+•	Created Workspace Folder: (YES) DaneCallaghanfiles
 •	Provided Comments: Yes
 
 Damian Gaffey
 •	Group GitHub Linked: Member
-•	Created Workspace Folder: (NO)
+•	Created Workspace Folder: (YES) DaneGaffeyfiles
 •	Provided Comments: --
 
 Jaime Salgado
 •	Group GitHub Linked: Invited
-•	Created Workspace Folder: (NO)
+•	Created Workspace Folder: (YES) JaimeSalgado-Files
 •	Provided Comments: --
 
 Rav
