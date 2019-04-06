@@ -1,0 +1,63 @@
+https://www.pcage.edu/2017/10/08/a-day-in-the-life-of-a-network-engineer/
+
+Network Engineer
+
+What kind of work is done by the IT professional? 
+
+This IT professional is a network engineer. His main role in the company is to design, implement and maintain the computer networks within a company. As opposed to network administrators that handle more day to day support of the network, a network engineer focuses on high level design and planning. By selecting the correct technologies and making sure they are implemented correctly, network engineers ensure a high performing network for all its users.
+
+What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+
+Network engineers, according to the article, would speak with department heads or certain members of staff to accomodate any of their networking requirements. In the instance of the article, it is a training on how to do a particular task on a network. They also delegate tasks to  people in your team, i.e network technicians. Again, in this cases a part of the training was delegated towards a network technician. They would also be involved in meetings with department heads and colleagues on maintaining and implement new products/services into their network
+
+Where does the IT professional spend most of their time?
+
+Depending on where they work, it can range from within an office or within a server farm. Either way, they would generally be sitting down at a desk for most of their day. If there is some kind of malfunction with the server, you might have to visit the physical server itself to make sure it gets fixed. Depending on where you work it might be some distance away, especially if your company employs off-site data centres. 
+
+What aspect of their position is the most challenging?
+
+I would say having to maintain such a large network would be the most challenging, as not only do you need to fix issues that arise occasionally during your work hours, but you might have to stay late to resolve more complicated issues.
+
++++++++++++
+
+https://blog.growthfunders.com/a-day-in-the-life-dan-ord-senior-php-developer
+
+PHP Developer
+
+What kind of work is done by the IT professional? 
+
+PHP Developers primarily work within the realms of web development in today’s industry but they are also known to develop programs as well. One of the things that all PHP Developers have in common, as the name suggests, is that they utilise the dynamic scripting language PHP. Besides web development, PHP can be utilised for business applications as well. Their roles range from web site administration, software testing and user training. 
+
+What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+
+In the article’s case the php developer is in a senior position and therefore overseers a great deal more than a normal php developer would. Dan Ord’s role is to oversee all Linux-based projects that come into the company. This means that he would generally be speaking to upper management about how they want to implement the ideas that they would have. He also mentions he replies to support tickets, which means he would be fixing user specific to widely known issues reported by the users from within the company.
+
+Where does the IT professional spend most of their time?
+
+He would spend most of his time in front of a desk, answering support tickets or otherwise in meetings where he would be either planning on current and future tasks or showcasing the work he has already done to management and employees. 
+
+What aspect of their position is the most challenging?
+
+The most challenging project he mentions is the current app he is working on which he has full control over. I tend to agree with him with regards to being in charge of a large scale projects that affect the companies performance as direction it takes based on this outcomes.
+
+++++++++++++
+
+https://www.youtube.com/watch?v=ORZlHuD22UQ
+
+UX Designer
+
+What kind of work is done by the IT professional? 
+
+A UX Designer focuses on creating a smooth user experience of a product or service. In this case the UX Designer is responsible for the UI (User Interface) and the UX of an app. He designs the look and feel of the app which then gets passed onto the developers to create into the mobile platform. He is responsible for creating a user environment that both caters to the need of the client, platform and good user experience principals. 
+
+What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+
+The designer would interact with the app developer team in sending them the necessary amount of detail for them to be able to create the app, a QA team to catch any missed details, colleagues to gain potential feedback on an aspect of the design he’s created and finally with the client in order to gain feedback for the app he is making and implement any changes. 
+
+Where does the IT professional spend most of their time?
+
+The designer would spend most of their time in front of a computer or in front of the client/colleagues for meetings about the work they are doing.
+
+What aspect of their position is the most challenging?
+
+He mentions that the biggest challenge is that he “has to work with both the restraints of the product itself and the clients expectations. Juggling what the client wants and the user needs can be hard, but it’s important to find the right balance”. 

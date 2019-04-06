@@ -1,0 +1,49 @@
+Group4-Assignment2-MeetingMinutes.txt
+
+Intro to IT - Group 4 Assignment 2
+
+Meeting 1 - 30th March 2019
+
+Attendees:
+- Rav
+- Dane
+
+Discussed Topics:
+- Sorting out Task 1 and 2
+- Understanding what is required for the Website and Report i.e how much information to show for both
+- What work we will need to do for the Report
+
+Dane and Rav were trying to verify what exactly we needed to add to the group website and how we needed to use Github. After some discussion we decided to ask Anthony about what exactly we needed to add into the website.
+
+Questions to be raised with Anthony
+Ask Anthony to clarify how the website and report work. Will the website have everything the report does separated into pages? or is it just to host the links for each group member’s websites and some artefacts? 
+
+Meeting 1 Catchup - 31th March 2019
+
+Attendees:
+- Rav
+- Dane
+- Damian
+
+This meeting is a catchup meeting from the previous day. We re-discussed the same topics as before but with some included updates.
+
+Discussed Topics:
+- Sorting out Task 1 and 2
+- Understanding what is required for the Website and Report i.e how much information to show for both
+- What work we will need to do for the Report
+
+Rav, Dane and Damian discussed what we needed to do the website. Rav, upon reading the assignment again and getting a reply back from Anthony stated the following:
+- The website will include the team profile, i.e Team Name, Personal Information, Team Personality Test Results(Team Profile) and Ideal Jobs.
+- The Report will be include the above as well as the other sections of the assignment i.e Industry Data, IT Work, IT Technologies, Project Ideas, Feedback and Group Reflection. 
+There was some information still missing from Task 1, specifically from the following:
+- Each person’s understanding of how their personalities will assist the group, according to the outcomes from the 3 personality tests we did in Assessment 1.
+- Compare and contrast the ideal job you chose to other member’s ideal jobs. (Specific questions in Team Profile>Ideal Jobs)
+
+Damian then added a post within the Task 1 discussion post asking member’s to write their responses as a reply to the post which he will then collate.
+
+After collating all the information for Task 1, Rav will divide each piece of information and create links in the ‘About’ page to each piece of information. In the meantime, Rav will create the necessary layout to facilitate the above as well as edit the overall design of the website.
+
+We all also think that perhaps creating a discord server might be easier for everyone to keep track of where things are at and what we need to do. We can create text channels purely for adding information and voice channels for meeting rooms.
+
+Coming Up
+Meeting 2 - 6th April 2019
