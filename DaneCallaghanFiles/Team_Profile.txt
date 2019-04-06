@@ -1,4 +1,5 @@
 TECH ELITES
+<!-- *****7.4.19 Added Aaron's info after him posting it on the Canvas forum -->
 <!-- *****6.4.19 Completed final edit and checks for spelling/grammar -->
 <!-- *****5.4.19 Updated information for Jaime and Damian following their responses in Canvas -->
 <!-- *****2.4.19 Updated test results and ideal job comparisons for Rav, Jon and Dane.-->
@@ -181,19 +182,43 @@ My ideal job would be somewhat different from the other chosen professions. I th
 <br/>
 
 <h1>Aaron Bowden</h1> 
+<!-- 7.4.19 Aaron provided his info on the Canvas forum last night, I have added it below -->
 <!-- 6.4.19 Aaron is still yet to contribute his data on the Canvas post, although he advised that he was back from holiday -->
 <!-- I have included Aaron for now until we confirm that he is inactive. I can update with his info if he contacts us -->
 
-<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
+<a href="https://aaron-bowden.github.io">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
+<!-- Link provided 6.4.19-->
 
-Personality Type: <!-- Will update once Aaron makes contact -->
+Personality Test Results:
+Personality Type: ENFJ - The Protagonist or The Giver personality.
+This personality type is a combination of extraverted, intuitive, feeling and judging. According to the Personality Page, ENFJ personalities primary mode of living is focussed externally, dealing with things according to how they make you feel or how they fit into your personal belief system. ENFJ personalities are people focussed and have a special talent for bringing out the best in others. They are focussed on understanding, supporting and encouraging others. (https://www.personalitypage.com/html/ENFJ.html. According to 16 Personalities, the ENFJ’s strengths are being tolerant, reliable, charismatic, altruistic and being natural leaders. Their weaknesses are listed as being overly idealistic, too selfless, too sensitive, fluctuating self esteem and struggling to make tough decisions (https://www.16personalities.com/enfj-strengths-and-weaknesses.
+
+Learning Style Test:
+My learning style is visual learning. According to Mind Tools, a visually dominate learner absorbs and retains information better when it is presented in pictures, diagrams and charts (https://www.mindtools.com/pages/article/vak-learning-styles.htm. According to howtostudy.com, visual learners learn best by using tools such as creating graphic organisers, including illustrations, using highlighter pens to colour code information, and studying in a place that is free from visual distractions (https://www.how-to-study.com/study-skills-articles/visual-learner.asp. 
+<!-- 7.4.19 Removed the text that said "Links to an external site" -->
+
+Colour Code Personality Profile Results: 
+My Colour Code personality type is yellow. According to Colour Code, yellow personalities are motivated primarily by fun. They are optimistic people who believe in others. They are charismatic and find it easy to relate to people of all ages. Colour Code notes that yellows are great as work colleagues as they build moral and are not intimidated by new ideas or new challenges. They are noted for being very creative and great verbal communicators. Their weaknesses are committing to long term projects, often starting more projects than they successfully complete. They prefer short term goals (https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf.
+
+Test Result Comment:
+My test results gave me a greater understanding of who I am as a person, what my strengths and weaknesses are, and how my personality and learning style may influence my career. I have affirmed that I am a highly creative individual, who is motivated by working with others and helping others to achieve their goals. I think my test results show that I would be best suited to working in a team environment on creative projects. I have also learned that I am a visual learner, and have taken note of the tips that will allow me to learn best. This includes organising information visually and including videos, colours and graphics into my learning process.
+
+My personal testing shows I am an excellent team player. As a people person and a people pleaser, I thrive in team based environments. I actively listen to other people’s ideas and motivate and encourage others to fulfil their potential. My natural role in a team would be to initiate and champion creative processes while promoting strong team communication and diversity of ideas. Through completing my personal testing, I have also identified some of my weaknesses. I am aware that I can be disorganised and may struggle to make tough decisions. I am also aware that I can struggle to commit to long term projects. These are weaknesses I would keep in mind when forming a team. 
+When forming a team, I would seek to ensure I have a balance of different personality types and learning styles. It is clear that different people bring different qualities and experiences to a team environment. Having an understanding of my own strengths and weaknesses would impact my decisions when forming an ideal team. Primarily, I would seek individuals who have strong organisation skills, attention to detail and who are task motivated. This would ensure that creative ideas are actualised and implemented in a more practical manner than my exisiting abilities would otherwise permit.
+<!-- Test results and comments added 7.4.19-->
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+
+Ideal Job:
+My ideal job is a Software Engineer with Apple. The link above currently advertises a Software Engineer role with the data security team. This position involves building novel crypto and security products. It is targeted at software engineers who have a passion for dealing with security challenges to help keep Apple data, services and interactions safe and private. This position appeals to me as this role emphasises innovation and collaboration. The role is very technical, requiring excellent programming skills and a good understanding of security concepts and design patterns. While the role is beyond my current skills and qualifications, it is something I would like to work towards.
+
+<!-- 7.4.19 Aaron will need to comment on how his ideal job compares to the rest of the group. I posted on Canvas to let him know-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
 <br/>
 
 <!-- 6.4.19 Completed final edit and corrected spelling an grammar for everyone's data -->
+<!-- Addedd Aaron's info. Just waiting for his ideal job comments and this file will be complete -->
 
 
 
