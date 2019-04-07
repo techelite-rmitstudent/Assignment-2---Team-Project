@@ -8,6 +8,7 @@ The link to your group's Git repository (GitHub): I also followed Jon's lead her
 
 How well the audit trail on the Git repository reflects the group's work?: As we are still discussing the details of creating the repo, I can't really comment yet. Given how well we are all contributing to the forum here, I imagine that it will cover it effectively. Maybe we can have a dedicated page that documents our comments in a timeline fashion? I followed a similar process for group work in a previous subject, and it worked well.
 
+Update 8.4.19: Now that we have had  couple of weeks to complete more work, I can comment a bit more on how well the audit trail reflects the group's work. It's easy to go into the each file and look at the history or the work completed. I think the only issue I have seen is that members have completed a lot of work on Canvas which doesn't get reflected through the audit trail. I think this could be overcome by either having a dedicated file to documenting everyone's work (besides the reflection page) or for everyone to copy their own work on Canvas to their folder on the group repo.
  
 
 Jon - Above you have written " Overall of Task 2 - Tools: My Git Repository is now link into Group Git Repository. I have made a personal file folder in the repository for my work effort".
