@@ -3,10 +3,17 @@ Assignment 2 - (Task 2 | Tools)
 Task 2 Overseer
 "Jonathan Aragones"
 
-"Comments: 
-I have created the GitHub Group Organization using the guide from https://www.youtube.com/watch?v=SUu6cmcC-3A. 
-I asked the group members to give their GitHub username in Canvas Discussion Article – Task 2, so that I can send 
-them an invitation to be part of the group organization account"
+Comments: 
+"I have created the GitHub Group Organization using the guide from https://www.youtube.com/watch?v=SUu6cmcC-3A. 
+We used Canvas Discussion Article – Task2 asking the group members to give their GitHub username to send 
+an invitation and be part of the Group GitHub organization account. We suggest each group member should have 
+their workspace folder in the Repository. Changes in the main project is the most crucial situation in building a 
+software or a website with group of people.Only overseers of the task should update or do some changes in the main 
+project object. This will minimize debug error, and group members will communicate in organised manner. We ask the 
+group to install and be familiar in GitHub Desktop and GitHub CMD pane so when publishing their work into their 
+workspace folder in the respository will be easy for them. I have made every member to be the owner of the repositor
+so that they can access the folder freely. The members are aware of how important not to edit someones workspace so 
+and to be organised on their workspace. The team did really well on this area."
 
 Selected Account Name:
 " TechElites – RMITStudent "
@@ -15,28 +22,28 @@ Group Members Participation:
 
 Jonathan Aragones:
 •	Group GitHub Linked: Master
-•	Created Work Effort Folder: (YES) JonAra-files
+•	Created Workspace Folder: (YES) JonAra-files
 •	Provided Comments: Yes
 
 Dane Callaghan:
-•	Group GitHub Linked: Member
-•	Created Work Effort Folder: Yes
+•	Group GitHub Linked: Owner
+•	Created Workspace Folder: (YES) DaneCallaghanfiles
 •	Provided Comments: Yes
 
 Damian Gaffey
-•	Group GitHub Linked: Member
-•	Created Work Effort Folder: (NO)
+•	Group GitHub Linked: Owner
+•	Created Workspace Folder: (YES) DaneGaffeyfiles
 •	Provided Comments: --
 
 Jaime Salgado
-•	Group GitHub Linked: Invited
-•	Created Work Effort Folder: (NO)
+•	Group GitHub Linked: Owner
+•	Created Workspace Folder: (YES) JaimeSalgado-Files
 •	Provided Comments: --
 
 Rav
-•	Group GitHub Linked: Memeber
-•	Created Work Effort Folder: (NO)
+•	Group GitHub Linked: Owner
+•	Created Workspace Folder: (NO)
 •	Provided Comments: --
 
 Aaron Bowden
-        Yet to make contact
+        Yet to make any work content for submission.

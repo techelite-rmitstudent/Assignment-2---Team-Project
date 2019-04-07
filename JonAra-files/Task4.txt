@@ -1,0 +1,53 @@
+http://www.first30days.com/blog/main/2014/03/a-day-in-the-life-of-an-it-professional/
+
+A Day in the Life of an IT Professional
+Have you ever wondered what it takes to be a successful IT professional? Technical knowledge is important, but it’s only the first of an IT pro’s tools. Each day, experts in information technology face complex business challenges. 
+To get an idea what it’s like behind the scenes, let’s take a look at a day in the life of an IT professional.
+1) Inept Customers
+In most enterprises, the information technology team runs a help desk for solving user problems. Little do users realize that many of the technical problems they encounter have the same cause: Them. IT professionals need to quickly diagnose each issue and apply the most efficient solution. Plus, they must provide excellent customer service even in cases where the user’s own lack of knowledge might be the culprit.
+2) Information Security
+Some users could stand to brush up on their computer skills, but at least they mean well. Sadly, that’s not true of everyone the IT pro runs into! The corporate network can come under attack at virtually any time thanks to hackers or rogue software. These threats unfold rapidly, in real time, as the perpetrator seeks to gain access to the network and spread harm. During an attack, an IT pro might be called upon to use dozens of tools in a matter of minutes to protect sensitive data.
+3) Meetings, Meetings, Meetings
+When the network isn’t under siege, just how can an IT pro demonstrate his or her value to the boss? Information technology specialists are constantly faced with this challenge. Not everything IT does is a “profit center” for their employer, so each cost has to be justified. Unfortunately, it can be difficult to explain many aspects of IT to non-technical supervisors, project managers or executives. To counter this, an effective IT pro is always strengthening his or her communication skills.
+4) Orchestrating the Cloud
+Nowadays, many global enterprises operate strictly using cloud computing. Adopting a cloud-based network means that all crucial business data should be available to users whenever they need it and no matter where they are or what device they’re on. This is becoming increasingly popular with the growth of dropbox, Salesforce, and other cloud-based companies. The fact that users can access data anywhere introduces a host of thorny issues. For example, how can you be sure that each user’s personal computer or phone is secure enough to be on the network? IT pros must continuously expand access to data while building new infrastructure to ensure policy compliance.
+5) Staying Ahead of the Curve
+No matter how big or small the business, one thing is for sure: Decision-makers expect and demand the latest technology. Upgrading software, whether it’s something as simple as a word processor or as complex as Windows, can be an enormous task. The entire effort needs to be strategized, justified and executed just right — ensuring that no one loses network access or critical files.
+6) Building Skills For the Future
+More than any other business professional, those in information technology are in a constant race to keep their skills updated. In many cases, this means continuously studying for new industry credentials. IT pros are faced with a selection of hundreds of certifications that cover various aspects of information technology. Allowing any certification to lapse can endanger future prospects. Plus, new and updated certifications come out on a regular basis.
+7) Balancing Today’s Duties and Tomorrow’s Advancement
+The most dedicated information technology pros are known for devoting hours upon hours to honing their skills. The constant pace of new breakthroughs puts them at risk of burning out if they try to do too much. While it’s a good idea for IT pros to specialize, they are often called upon to resolve problems outside their set of skills. Finding a unique niche that adds strategic value to an organization is vital to any IT pro’s long-term success.
+Information technology is constantly evolving, and IT as a whole is challenging work. When technology fails, IT professionals must quickly resolve issues that cost money with each passing minute. The next time you call up the IT team, remember that the job is tougher than it looks!
+
+
+If you felt moved, inspired, touched, helped, annoyed, or anything after reading this, please let us know. Our wonderful bloggers really do appreciate your comments and feedback. It’s super easy and takes a minute. Click on comments below.
+
+
+https://programs.online.utica.edu/articles/moulden-info-security-interview
+A Day in the Life of an Information Security Professional
+ 
+Get an inside look into the careers you may be interested in as a graduate of Utica's BS or MS Cybersecurity programs. Learn from this insider interview with Information Assurance Analyst Steve Moulden
+Tell us about yourself and what you do.
+I am a Navy veteran with 20 years of experience in the Information Technology field. I completed my BS of Information Technology focused on Computer Forensics and my MS of Information Technology focused on Internet Security. I currently work as an Information Assurance Analyst as a contractor. I have several certifications, including CompTIA Security+, and I am awaiting results of my CISSP. The Security+ certification is a great way to get your foot in the door as well. My next certification will be Certified Ethical Hacker (CEH).
+Describe the typical duties/functions/responsibilities of your job and what an average day is like.
+I spend a good portion of my day reviewing security architecture and design diagrams detailing ports, protocols. I also conduct and analyze vulnerability scans and develop mitigation strategies per FISMA, DIACAP and Department of Defense IA and CND regulations, processes and technical requirements (based on who needs which regulation). I also develop, review and analyze DIACAP packages and other C&A documentation in accordance with the accreditation process (DIACAP). Additional duties include training personnel in security best practices.
+Can you tell us about a special or cool project that you worked on that is a great example of what you do?
+I am the lead for a product called CIAMS, which is basically an IA Toolbox for site security managers providing patch management, log management, and centralized backup for small- to medium-sized networks. It has been delivered to several Department of Defense sites for use in simulators. I get to fly simulators, drive ship simulators and test them after our work is complete.
+Why did this type of work interest you, and how did you get started?
+I had managed smaller networks when I was in the Navy (primarily with aircraft squadrons) as one of my many hats I wore as a sailor. When I left the Navy in 2006, I only had an associate degree and was fortunate enough to work in the IT field as a Technical Support Specialist for a local municipality. I started college again in 2008 and completed my BS in 2009, followed by an accelerated program, allowing me to complete my MS in 2010. I was able to network my way to the position I now hold as a contractor.
+What are most important skills for a position in this field?
+Good communication skills are always a must. Documentation is a major part of what we do for our customers. A strong technical background of hardware, operating systems and networks are also required. Skills in troubleshooting, problem solving, research and multitasking are also highly recommended.
+How well did your college experience prepare you for this job?
+Without holding many certifications, having a college degree oftentimes is the "foot in the door" leading to a new job. Having a degree definitely plays a part later in the career when it comes to promotion opportunities.
+What courses have proved to be the most valuable to you in your work?
+My computer forensic courses and security design courses. Overall, all of my courses were beneficial, as many involved technical papers requiring much research. If you only use one book for a class, most likely you may be missing something you need. Research, research and research followed by documentation, documentation and documentation!
+What part of this job do you personally find most satisfying? Most challenging? What do you like and not like about working in this industry?
+I get to travel and work in various parts of the country. The satisfaction of knowing that I am a major part of securing our country's assets is a great motivator. The most challenging part is keeping abreast of the constantly changing vulnerabilities and how to effectively remediate them, as well as keeping up-to-date with the latest security requirements of our customers. I like IA, but there are good days and bad days just like any job.
+What other jobs can you get with the same background?
+The career options are really limitless. With a forensics background, one could work government, law enforcement, malware analysis. For cybersecurity, it really is limitless in research, analysis. Every industry that has an online presence requires cybersecurity.
+What advice would you give to someone looking to become an IA Analyst?
+Get to understand all aspects of security, not just IA. Physical security is just as important as Information Security. Be able to come up with solutions, don't just document the problems. The goal is systems that are both secure and usable for their purpose.
+Any other thoughts you'd like to share?
+The career is also customer-driven. We provide risk assessment for our customers, who determine how much risk they are willing to take with their assets. Be a people person as well—no isn't always the answer. Finding the right solution to their problem is the answer.
+Find networking groups on LinkedIn and join a local chapter of Information Security professionals, such as Information Systems Security Association (ISSA), that meet periodically to meet and network with peers. Oftentimes recruiting agencies are members of these organizations as well and can help you find a job in the field.
+Mentor others, volunteer as a Science, Technology, Engineering, Mathematics (STEM) mentor at your local school or educational foundation. FIRST Robotics and CyberPatriot are two great STEM-related initiatives to get involved with to encourage students to excel in STEM fields.
