@@ -1,0 +1,111 @@
+Group4-Assignment2-MeetingMinutes.txt
+
+Intro to IT - Group 4 Assignment 2
+
+Meeting 1 - 30th March 2019
+
+Attendees:
+- Rav
+- Dane
+
+Discussed Topics:
+- Sorting out Task 1 and 2
+- Understanding what is required for the Website and Report i.e how much information to show for both
+- What work we will need to do for the Report
+
+Dane and Rav were trying to verify what exactly we needed to add to the group website and how we needed to use Github. After some discussion we decided to ask Anthony about what exactly we needed to add into the website.
+
+Questions to be raised with Anthony
+Ask Anthony to clarify how the website and report work. Will the website have everything the report does separated into pages? or is it just to host the links for each group member’s websites and some artefacts? 
+
+Meeting 1 Catchup - 31th March 2019
+
+Attendees:
+- Rav
+- Dane
+- Damian
+
+This meeting is a catchup meeting from the previous day. We re-discussed the same topics as before but with some included updates.
+
+Discussed Topics:
+- Sorting out Task 1 and 2
+- Understanding what is required for the Website and Report i.e how much information to show for both
+- What work we will need to do for the Report
+
+Rav, Dane and Damian discussed what we needed to do the website. Rav, upon reading the assignment again and getting a reply back from Anthony stated the following:
+- The website will include the team profile, i.e Team Name, Personal Information, Team Personality Test Results(Team Profile) and Ideal Jobs.
+- The Report will be include the above as well as the other sections of the assignment i.e Industry Data, IT Work, IT Technologies, Project Ideas, Feedback and Group Reflection. 
+There was some information still missing from Task 1, specifically from the following:
+- Each person’s understanding of how their personalities will assist the group, according to the outcomes from the 3 personality tests we did in Assessment 1.
+- Compare and contrast the ideal job you chose to other member’s ideal jobs. (Specific questions in Team Profile>Ideal Jobs)
+
+Damian then added a post within the Task 1 discussion post asking member’s to write their responses as a reply to the post which he will then collate.
+
+After collating all the information for Task 1, Rav will divide each piece of information and create links in the ‘About’ page to each piece of information. In the meantime, Rav will create the necessary layout to facilitate the above as well as edit the overall design of the website.
+
+We all also think that perhaps creating a discord server might be easier for everyone to keep track of where things are at and what we need to do. We can create text channels purely for adding information and voice channels for meeting rooms.
+
+Meeting 2 - 6th April 2019
+
+Attendees
+- Aaron
+- Damian
+- Rav
+
+Discussed Topics
+- Catching Aaron up on what he has missed so he can submit everything he needs to do in the meantime. 
+- Discussing previous and current tasks
+
+Started the meeting by Rav giving a run down to Aaron about what he has missed and what he has to catch up on. Aaron now understands what he has to do to and where to submit his tasks to the various overseers of the tasks
+
+Damian indicated that for Task 4, to which he is the overseer off, had enough content to not need everyone to write about the four topics, but just everyone to select one topic and write about it instead. He can then collate everything and add it to the master document for Task 4.
+
+We all mentioned the Ideal Jobs section that we still need to complete that Dane highlighted we missed
+
+Rav highlighted the need to check the Task 3 post made by himself about the website, and give feedback about it from everyone. Further details are within the post itself. 
+
+Meeting 2 Catchup - 7th April 2019
+
+Attendees:
+- Jon
+- Dane
+- Rav
+
+Discussed Topics
+- Talked about previous and current tasks that need to be completed
+- Talked about referencing of sources used
+- Project Idea discussion - Briefly spoke about Rav and Damian's project ideas
+- Talked about the Industry Data requirements 
+- Spoke about the giving Feedback - Sparkplus
+- Discussed the Audit trail and how to best comment on it
+- How to construct the report pdf - Template with Microsoft Office/Pages
+- Briefly looked at future assignments - Assessment 3 onwards
+- Jon joined in later and Rav talked about 
+-- Finalising the website
+-- Making the report
+-- Commenting on each person's articles for the IT Work
+-- Discussed creating a separate task discussion post for the project idea
+-- Discussed creating a seperate task discussion for the report
+
+Dane and Rav spoke about the current tasks that needed to be completed, before the deadline of Monday 8th April. They established that we still have to collate all the work from the Industry Data discussion post. Rav asked Dane, what the best way to do this part of the assessment was. Dane said that it would be best to answer the questions based on each member's ideal job and then combine it at the end. Even if there is two people with the same job, those comments can both be combined too.
+
+They talked about how we should reference/cite all the sources that we have used to come up with the information that they had to write for each task. They found a website that allows you to add the link and then easily generate the citation in the harvard style(the style we are supposed to cite in). The site is called: http://www.citethisforme.com/. 
+
+They also spoke about the best way to write about the audit trail. Since the work is split amongst Canvas and Github, they thought it would be best if everyone comments about the contributions from both platforms instead of just Github.
+
+The upcoming task of the project idea was also discussed. They concluded that it might be a good idea if we all put forward a project idea, probably the one we had in Assessment 1, and then everyone would vote on the one that would be best to add. Then in a discussion post we could all expand upon the most voted/chosen project idea.
+
+They then discussed what would be the best way to create the project report. We should create a discussion post so that the all the overseers can add into the posts the necessary information to add into the report. We can then use a template in Microsoft Office in a report format and simply add all the collated content into to it.
+
+They also looked at the future assessments and what we need to complete for them. They decided that we would discuss them with the group when we got to the time to complete them. It looks like we will have to expand upon our project idea and then record a video presentation. 
+
+After the meeting was done, Jon came into the call later to which Rav connected and they spoke some more about the current tasks. Effectively they mirrored what Rav and Dane spoke about. 
+
+They verified that the website only requires the submission and the team profile, the rest will be created into a report.
+
+They also spoke about the report that we have to make and he suggested that we made a new discussion post for that and then collate all the tasks for that. Also they wanted to create a new discussion post for the project idea, so everyone can update it. 
+
+Jon did highlight that in order to expand upon each person's IT Work articles, we should comment on each person article as well, he will expand more on a post.
+
+Meeting Coming Up
+Saturday 13th April 

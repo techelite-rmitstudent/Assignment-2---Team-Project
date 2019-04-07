@@ -1,0 +1,13 @@
+Task 3.txt
+
+Group 4 - Rav:
+
+I nominate "Rav" (Myself) to be Overseer of Task 3 - Building Website. 
+I volunteer as the overseer of this task because of my background in coding which will allow me to easily create the website with the help 
+
+My Contribution:
+- Created a repo for the group github page
+- Added the template chosen by everyone called 'HTML5UpDimension', to the repo
+- Customised it to include the necessary Team Profile Sections, including a page for the submission
+- Created profile pages for each group member and added the anchor links so that when a user clicks on it, it will take them to the appropriate section in the member's profile page.
+- Added the team's information collated by Task 1 Overseer - Dane to each member's profiles   

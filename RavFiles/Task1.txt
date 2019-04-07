@@ -1,0 +1,30 @@
+Task1.txt
+
+Group 4 - Rav: 
+
+I nominate "Dane Callaghan" to be Overseer of Task 1 - Profile. 
+I believe, according to the group strengths discussion post, he is capable of organising the first part of the Assessment, the Team Profile.
+
+Team Name Suggestion: TechElites - Voted
+
+Personal Profile link: https://s3330554.github.io/
+
+Personal Information:
+My name is Rav and I am from Australia. I am currently studying at RMIT in the Bachelor of Information Technology. I want to start my career in the I.T Industry so I am using this course as a way to further my understanding of I.T and it's industry. When I’m not in front of the computer I like to go hiking and camping. I have some experience with web programming languages and object-oriented languages.
+
+Personality Test Suggestion: 
+ 
+Myers-Briggs Test: Logistician (ISTJ-a)
+
+Online Learning Style Test:  Auditory: 35% Visual: 40% Tactile: 25% You are a Visual learner!
+
+Big Five Personality Test: You prefer traditional and familiar experiences. You are neither organised or disorganised. You tend to shy away from social situations. You find it easy to express irritation with others. You aren't particularly nervous, nor calm. 
+
+Test Outcomes and my understanding of how it may help the group:
+I think based on my ability to be calm and think things through I can help the group by completing the tasks assigned to me in methodically and carefully. I can also suggest to the group the easiest way to complete tasks so as to keep thing moving efficiently and even help with organising tasks.
+
+My Ideal Job: 
+My ideal job in assessment 1 was the Full Stack JavaScript Developer but for this assessment I chose Network Engineer. The job types rank no.7 in the burning glass comparison chart with regard to job availability. The other group members ideal jobs require different technical abilities, like programming, for example, isn't required to be a network engineer. All IT jobs have specialised aspects that are similar to other IT jobs but I think the real similarities between IT jobs are the personal skills. Personal skills like effective communication and analytical thinking are important skills for any IT job or any job for that matter. My ideal job would be somewhat different from the other chosen professions. I think the jobs we have chosen have some overlap in the sense that if we were to work in an organisation, each job has the potential to have some kind of dealings with the other.
+
+Overall of Task 1 - Profile: 
+My Git repository is now setup and I have submitted the above info in Task1.html in Canvas and in Github

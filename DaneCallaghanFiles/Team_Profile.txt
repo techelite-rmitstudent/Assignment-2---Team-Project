@@ -1,8 +1,11 @@
 TECH ELITES
+<!-- *****7.4.19 Added Aaron's info after him posting it on the Canvas forum -->
+<!-- *****6.4.19 Completed final edit and checks for spelling/grammar -->
 <!-- *****5.4.19 Updated information for Jaime and Damian following their responses in Canvas -->
 <!-- *****2.4.19 Updated test results and ideal job comparisons for Rav, Jon and Dane.-->
 <p>
-<!-- Not exactly sure what to write here. I think Jon's idea to have an intro is great. Maybe we can all decide as a group what to write here. Not complete as of 28.3.19 @ 3:49 AM.-->
+<!-- Not exactly sure what to write here. I think Jon's idea to have an intro is great. Maybe we can all decide as a group what      	  to write here. Not complete as of 28.3.19 @ 3:49 AM.-->
+<!-- 6.4.19 Maybe we don't have to have this intro after looking at the website. The format of our info page speaks for itself.       -->
 
 "Introducing Group of IT students .....
 
@@ -14,79 +17,69 @@ which will be the .......
 </p>
 
 <p>
-<h2>MEMBERS,/h2>
+<h2>MEMBERS</h2>
 
 <h1>Jon Ara</h1>
 
 <a href="https://xirtaminteractive.github.io/">GitHub Profile</a> 
 
-Personality: (EnFJ), (ESTJ) Protagonist, Executive, Analytical, Organized, Sequential, Detailed Oriented, Quite Determine, Sharp Mind, Logical Thinker
+Personality Test Results:
 
-Extravert(9%)  Intuitive(44%)  Feeling(9%)  Judging(19%)
+Personality:(ESTJ) Protagonist, Executive, Analytical, Organized, Sequential, Detail Oriented, Quite Determined, 			    Sharp Mind, Logical Thinker
+	    Extravert(9%)  Intuitive(44%)  Feeling(9%)  Judging(19%)
 
 Learning Style: Research-Finder, Self-learning, Quick Learner, Visual Learner, Tactile Learner
-
-Auditory(20%) Visual(40%) Tactile(40%)
+		Auditory(20%) Visual(40%) Tactile(40%)
 
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 <!-- Updated test results 2.4.19-->
 
-"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
-<br/>
+My Ideal Job: Software Engineer - Because it has the highest rate for job posting available today and also the highest rate of 		      pay for jobs in this industry. It may also lead me to be part of the team who are changing the world into a better 	       place (Innovation Technology). 
 
-My Ideal Job: Software Engineer - because it has the highest rate for job posting available today and the highest pay rate job in this industry. 
-			  It may also lead me to be part of the team who are changing the world into a better place (Innovation Technology). 
-			  Comments: Seems the group members have a different type of ideal jobs in each department of Information Technology that when you to put them all together it becomes the strong team of IT which may have knowledge in all aspect of a company who can build software and technology. 
-			  "TechElite" is really fit as the name for this group.
+Comments: Seems the group members have different types of ideal jobs in various departments of Information Technology. When you put them all together, it becomes a strong team of IT professionals with knowledge in all aspects of a company that can build software and technology. "TechElites" is really good fit for the name for this group.
+<!-- 6.4.19 Edited Jon's comments to read better and have a more fluid grammatical flow -->
+<br/>
 
 <h1>Dane Callaghan</h1>
 
 <a href="https://danecallaghan.github.io/DaneCallaghan/">GitHub Profile</a>
 
+Personality Test Results:
+
 Personality Type: (I-S-T-J) - The Duty Fulfiller
-				  Serious and quiet, interested in security and peaceful living. Extremely thorough responsible and dependable.
-				  Well developed powers of concentration. Usually interested in supporting and promoting traditions and establishments.
-				  Well organised and hardworking, they work steadily towards identified goals.
+		  Serious and quiet, interested in security and peaceful living. Extremely thorough, responsible and dependable.
+		  Well developed powers of concentration. Usually interested in supporting and promoting traditions and 			  establishments. Well organised and hardworking, they work steadily towards identified goals.
 				
 Learning Style:	  Auditory  30%, Visual 40%, Tactile 30% - You are a visual learner.
 
 Big 5 Personality Test: Openness to experience -65
-						            Conscientiousness - 96
-						            Extroversion - 83
-						            Agreeableness - 16
-						            Natural reactions - 22
+			Conscientiousness - 96
+			Extroversion - 83
+			Agreeableness - 16
+		    	Natural reactions - 22
 						
-How These Results May Influence My Behaviour In A Team:I think I would work well in a team, and would expect we had a solid plan     where everyone knew exactly what is expected from them. 
-													   I would want a clear timeline established, with defined tasks set out to be completed in that time. 
-													   I have sometimes been described as "too picky" as I can scrutinise every detail. The positive side                 to that is that I am very thorough if assigned a research task.
+How These Results May Influence My Behaviour In A Team:
+	I think I would work well in a team, and would expect we had a solid plan where everyone knows exactly what is expected 	from them. I would want a clear timeline established, with defined tasks set out to be completed in that time. I have 		sometimes been described as "too picky" as I can scrutinise every detail. The positive side to that is that I am very 		thorough if assigned a research task.
 
-Things to consider when I form a team: I think personality cetainly plays a part in forming a team, and that it can be beneficial to have a mix of diffeent types. It is important to know everyone's skills, learning methods and how they work best. 
-									   If we can understand the various types of personalities, we can understand how best to interact with each type.
+Things to consider when I form a team: 
+	I think personality certainly plays a part in forming a team, and that it can be beneficial to have a mix of different 		types. It is important to know everyone's skills, learning methods and how they work best. If we can understand the 		various types of personalities, we can understand how best to interact with each type.
 
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
+<!-- Test results for all test have been added -->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
-Ideal Job:  I have recently moved into the financial planning industry. 
-			Currently my ideal job is to be a financial adviser, with the hope of one day moving into a management or mentor type role.
-			A Senior Financial Adviser works with clients to help them understand their financial needs. 
-			They discuss and assesss various aspects of the client's financial situation such as budgets and cash flow,          superannuation, investments, risk management, estate planning and retirement goals. 
-			The adviser will help educate the client on these topics and address any concerns they may have.
+Ideal Job: I have recently moved into the financial planning industry. Currently my ideal job is to be a financial adviser, 		   with the hope of one day moving into a management or mentor type role. A Senior Financial Adviser works with clients 	   to help them understand their financial needs. They discuss and assesss various aspects of the client's financial 		   situation such as budgets and cash flow, superannuation, investments, risk management, estate planning and retirement 	    goals. The adviser will help educate the client on these topics and address any concerns they may have.
 
+Comments: Apart from the position of Senior Financial Planner, the jobs listed above have similar requirements as shown below:
 
-			Apart from the position of Senior Financial Planner, the jobs listed above have similar requirements as shown below:
+- Common Education: All jobs require a degree, and share the Bachelor of IT as a common requirement. Other specialty 		courses are applicable to each job too, such as extra certification.
 
-		   - Common Education: All jobs require a degree, and share the Bachelor of IT as a common requirement. Other specialty courses are applicable to each job too, such as extra certification.
+- Common Skills: Communication, Programming, Analytical, Knowlegde of IT systems
 
-           - Common Skills: Communication, Programming, Analytical, Knowlegde of IT systems
+- Salary: The all have similar ranges of salary that will vary depending on experience and role within that discipline.
 
-		   - Salary: The all have similar ranges of salary that will vary depending on experience and role within that discipline.
-
-	       - Differences: The obvious outlayer is Financial Planning as it's a completely different industry. 
-						  Each of the other jobs will require specialist knowledge that will be unique to that position. 
-						  A Network Engineer is likely to have a deeper understanding of network structure compared to a software engineer who will specialise in building software. 
-						  The IT consultant will have a broad but limited overall knowledge of both.
-
+- Differences: The obvious outlier is Financial Planning as it's a completely different industry. Each of the other jobs will require specialist knowledge that will be unique to that position. A Network Engineer is likely to have a deeper understanding of network structure compared to a software engineer who will specialise in building software. The IT consultant will have a broad but limited overall knowledge of both.
 <br/>
 
 <h1>Damian Gaffey</h1>
@@ -95,49 +88,66 @@ Ideal Job:  I have recently moved into the financial planning industry.
 
 Personality Test Results:
 
-Personality Type: Defender - For me personally I think this sums me up pretty well I am the quiet guy in the corner
-but I am not just being quiet I am taking everything in analyising things to help solve the problem
+Personality Type: Defender - For me personally, I think this sums me up pretty well. I am the quiet guy in the corner
+but I am not just being quiet, I am taking everything in and analyising things to help solve the problem
 
-Learning Style Test: Auditory - This has always been a way of me learning with visual and audio it's how I learnt
-to build this webpage by using youtube and to learn how to use github I am more of hands on.
+Learning Style Test: Auditory - This has always been a way of me learning. Using visual and audio based learning is how I learned to build my webpage from sources like Youtube. To learn how to use github, I used more of hands on method.
+<!-- I edited Damian's text here to make it read better, and to break up the one really long sentence -->
 
-Online IQ Test: I googled the value to see what scale I was at and it turns out I have superior intelligence
-although that's what is stated I don't feel I have am more superior than others I always like other peoples views
+Online IQ Test: I googled the value of my score to see what scale I was at. It turns out I have superior intelligence. Although that's what is stated, I don't feel I am more superior than others and I always like other people's views.
+<!-- 6.4.19 I edited Damian's text here to make it read better. I broke the long sentence into smaller pieces, and added some missing punctuation -->
 
-( )<!-- Damian's profile currently just says "Defender". We will need the result from the human metrics test-->
+<!-- Damian's profile currently just says "Defender". We will need the result from the human metrics test-->
+<!-- 6.4.19 I have posted on the Task One Outstanding Actions forum that Damian's format is different from everybody else's.-->
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
-Test Result Comments:For my 3 test outcomes the way I can contribute to the group is I am more of a visual and hands on learner   by this I achieve things by doing this the way I see myself is not as a leader but more of a follower but that doesn't mean I let other's do the work I am more of a researcher finding information from various sources, I think I am beneficial to this group for my ability to     source information for us to overlook it and collaborate it with everyone else's work and ideas.
+Test Result Comments:
+
+From my 3 test outcomes, the way I can contribute to the group is I am more of a visual and hands on learner. I see myself not as a leader, but more of a follower. That doesn't mean I let others do all the work though. I am more of a researcher that finds information from various sources. I think I am beneficial to this group for my ability to source information for us to look over and to collaborate it with everyone else's work and ideas.
+<!-- I Edited the above quite a bit. There was a sentence that made no sense to me, so I removed it. I also made a few grammatical changes and added punctuation where required -->
   
-Ideal Job: My Ideal job in IT is well I am not sure which direction I am heading yet but I think I am looking towards IT consultant/network engineering and maybe some software developement also possibly IT helpdesk. Within our group our ideal jobs a varied from software developement to networking but as a whole we do require the same sort of skill sets and knowledge as they all interact with eachother as a software developer you need to know the basics of how technology works and how to utilise it in your developement, An IT consultant is more of an all rounder when someone has a problem you need to be able to quickly work out if it's a hardware issue or if it is software or networking issue then contact the relevant department to help resolve the issue as quickly as possible. I couldn't find any rating on IT consultant so I researched networking and what I found was Network and computer systems administrator ranked 19/199 from careercast: https://www.careercast.com/jobs-rated/2017-jobs-rated-report
+Ideal Job: 
+
+I am not sure which direction I am heading in IT yet, but I think I am looking towards IT consultant/network engineering and maybe some software developement. I have also considered working at an IT helpdesk. Within our group our ideal jobs are varied from software developement to networking, but as a whole we require the same sort of skill sets and knowledge as they all interact with eachother. As a software developer you need to know the basics of how technology works and how to utilise it in your developement. An IT consultant is more of an all rounder. When someone has a problem the IT consultant needs to be able to quickly work out if it's a hardware, software or networking issue then contact the relevant department to help resolve the problem as quickly as possible. I couldn't find any rating on IT consultant so I researched networking and what I found was Network and Computer Systems Administrator ranked 19/199 from the careercast website: https://www.careercast.com/jobs-rated/2017-jobs-rated-report
+<!-- 6.4.19 Heavily edited Damian's text here. Made it read easier, added punctuation and broke long sentences down -->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+<br/>
 
 <h1>Jaime Salgado</h1>
 
 <a href="jaimesalgado14.github.io">GitHub Profile</a>
 
 Personality Test Results:
+
 Personality Type: (I-S-T-J) The Duty Fulfiller
-				  Serious and quiet, interested in security and peaceful living. Extremely thorough responsible and dependable.
-				  Well developed powers of concentration. Usually interested in supporting and promoting traditions and establishments.
-				  Well organised and hardworking, they work steadily towards identified goals.
+		Serious and quiet, interested in security and peaceful living. Extremely thorough, responsible and dependable.
+		Well developed powers of concentration. Usually interested in supporting and promoting traditions and 				establishments. Well organised and hardworking, they work steadily towards identified goals.
           
 Online Learning Style Test: Auditory 15%, Visual 50%, Tactile 35%. You are a Visual learner!
+
 Creativity Test: Creativity score of 57.03
 
-Test Result Comment: Based on my result, I can help the group as I am a person with responsibility who likes to do a job well. Although I am a person who prefers to follow instructions to do it well.
+Test Result Comment: Based on my result, I can help the group as I am a person with responsibility who likes to do a job well.  		     Although I am a person who prefers to follow instructions to do it well.
 
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 <!-- Other test results added 5.4.19-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their personal profile-->
 
-Ideal Job: My Ideal Job is: Server Administrator, or admin; has the overall control of a server. This is usually in the context of a business organization, where a server administrator oversees the performance and condition of
-multiple servers in the business organization.
+Ideal Job: 
+My ideal job is Server Administrator, or admin that has the overall control of a server. This is usually in the context of a business organisation, where a server administrator oversees the performance and condition of multiple servers in the business organisation.
+<!-- 6.4.19 Minor punctuation edits here -->
 
-In the site https://www.burning-glass.com/research-project/stem/ I did an investigation and saw that my ideal job in the 4th position, with the following data( Network / Systems Admin 32,682 62% 38%) but I see the first position occupies it (Computer Support Specialist 121,426 34% 66%) what has left me thinking
-because before that I dedicated myself when I worked for the Government of El Salvador.
+On the website https://www.burning-glass.com/research-project/stem/ I did an investigation and saw that my ideal job is in the 4th position with the following data:
+	Network / Systems Admin 32,682 62% 38%)
+
+I see the 1st position is taken by Computer Support specialist with the following data:
+	(Computer Support Specialist 121,426 34% 66%) 
+	
+These research findings have got me thinking, because before that I dedicated myself to my job when I worked for the Government of El Salvador.
+<!-- 6.4.19 Heavily edited Jaime's text here. I think I understood what he was trying to say and edited it to keep the feel of his words, but also tried to make it readable -->
+<br/>
 
 <h1>Rav</h1>
 
@@ -145,46 +155,70 @@ because before that I dedicated myself when I worked for the Government of El Sa
 <!-- UPDATE 31.3.19 Rav provided the link to his profile and I added it above -->
 
 Personality Test Results:
+
 Myers-Briggs Test: Logistician (ISTJ-a)
-Online Learning Style Test:   Auditory: 35% Visual: 40% Tactile: 25% You are a Visual learner!
+
+Online Learning Style Test: Auditory: 35% Visual: 40% Tactile: 25% You are a Visual learner!
+
 Big Five Personality Test: You prefer traditional and familiar experiences. You are neither organised or disorganised. 
-						   You tend to shy away from social situations. You find it easy to express irritation with others. 
-						   You aren't particularly nervous, nor calm. 
+			   You tend to shy away from social situations. You find it easy to express irritation with others. 
+			You aren't particularly nervous, nor calm. 
                
 Test Outcomes and my understanding of how it may help the group:
-I think based on my ability to be calm and think things through I can help the group by completing the tasks assigned to me in methodically and carefully. I can also suggest to the group the easiest way to complete tasks so as to keep thing moving efficiently and even help with organising tasks.
 
+I think based on my ability to be calm and think things through, I can help the group by completing the tasks assigned to me methodically and carefully. I can also suggest to the group the easiest way to complete tasks so as to keep thing moving efficiently and even help with organising tasks.
+<!-- 6.4.19 I added a comma and removed the word "in" before methodically -->
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 <!-- Other test results added 2.4.19-->
 
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
-Ideal Job: My ideal job in assessment 1 was the Full Stack JavaScript Developer but for this assessment I chose Network Engineer. 
-		   The job types rank no.7 in the burning glass comparison chart with regard to job availability. 
-		   The other group members ideal jobs require different technical abilities, like programming, for example, isn't required to be a network engineer. 
-		   All IT jobs have specialised aspects that are similar to other IT jobs but I think the real similarities between IT jobs are the personal skills. 
-		   Personal skills like effective communication and analytical thinking are important skills for any IT job or any job for that matter. 
-		   My ideal job would be somewhat different from the other chosen professions. 
-		   I think the jobs we have chosen have some overlap in the sense that if we were to work in an organisation, each job has the potential to have some kind of dealings with the other.
+Ideal Job: 
+My ideal job in assessment 1 was the Full Stack JavaScript Developer but for this assessment I chose Network Engineer. 		   The job type ranks no.7 in the Burning Glass comparison chart with regard to job availability. The other group member's ideal jobs require different technical abilities, like programming for example. That particular skill isn't required to be a network engineer. All IT jobs have specialised aspects that are similar to other IT jobs, but I think the real similarities between IT jobs are the personal skills. Personal skills like effective communication and analytical thinking are important skills for any IT job or any job for that matter. 
+<!-- 6.4.19 Minor punctuation edits and minor sentence restructuring -->
 
-<h1>Aaron Bowden</h1> <!-- I have included Aaron for now until we confirm that he is inactive. I can update with his info if he contacts us -->
+My ideal job would be somewhat different from the other chosen professions. I think the jobs we have chosen have some overlap in the sense that if we were to work in an organisation, each job has the potential to have some kind of dealings with the other.
+<br/>
 
-<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
+<h1>Aaron Bowden</h1> 
+<!-- 7.4.19 Aaron provided his info on the Canvas forum last night, I have added it below -->
+<!-- 6.4.19 Aaron is still yet to contribute his data on the Canvas post, although he advised that he was back from holiday -->
+<!-- I have included Aaron for now until we confirm that he is inactive. I can update with his info if he contacts us -->
 
-Personality Type: <!-- Will update once Aaron makes contact -->
+<a href="https://aaron-bowden.github.io">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
+<!-- Link provided 6.4.19-->
+
+Personality Test Results:
+Personality Type: ENFJ - The Protagonist or The Giver personality.
+This personality type is a combination of extraverted, intuitive, feeling and judging. According to the Personality Page, ENFJ personalities primary mode of living is focussed externally, dealing with things according to how they make you feel or how they fit into your personal belief system. ENFJ personalities are people focussed and have a special talent for bringing out the best in others. They are focussed on understanding, supporting and encouraging others. (https://www.personalitypage.com/html/ENFJ.html. According to 16 Personalities, the ENFJ’s strengths are being tolerant, reliable, charismatic, altruistic and being natural leaders. Their weaknesses are listed as being overly idealistic, too selfless, too sensitive, fluctuating self esteem and struggling to make tough decisions (https://www.16personalities.com/enfj-strengths-and-weaknesses.
+
+Learning Style Test:
+My learning style is visual learning. According to Mind Tools, a visually dominate learner absorbs and retains information better when it is presented in pictures, diagrams and charts (https://www.mindtools.com/pages/article/vak-learning-styles.htm. According to howtostudy.com, visual learners learn best by using tools such as creating graphic organisers, including illustrations, using highlighter pens to colour code information, and studying in a place that is free from visual distractions (https://www.how-to-study.com/study-skills-articles/visual-learner.asp. 
+<!-- 7.4.19 Removed the text that said "Links to an external site" -->
+
+Colour Code Personality Profile Results: 
+My Colour Code personality type is yellow. According to Colour Code, yellow personalities are motivated primarily by fun. They are optimistic people who believe in others. They are charismatic and find it easy to relate to people of all ages. Colour Code notes that yellows are great as work colleagues as they build moral and are not intimidated by new ideas or new challenges. They are noted for being very creative and great verbal communicators. Their weaknesses are committing to long term projects, often starting more projects than they successfully complete. They prefer short term goals (https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf.
+
+Test Result Comment:
+My test results gave me a greater understanding of who I am as a person, what my strengths and weaknesses are, and how my personality and learning style may influence my career. I have affirmed that I am a highly creative individual, who is motivated by working with others and helping others to achieve their goals. I think my test results show that I would be best suited to working in a team environment on creative projects. I have also learned that I am a visual learner, and have taken note of the tips that will allow me to learn best. This includes organising information visually and including videos, colours and graphics into my learning process.
+
+My personal testing shows I am an excellent team player. As a people person and a people pleaser, I thrive in team based environments. I actively listen to other people’s ideas and motivate and encourage others to fulfil their potential. My natural role in a team would be to initiate and champion creative processes while promoting strong team communication and diversity of ideas. Through completing my personal testing, I have also identified some of my weaknesses. I am aware that I can be disorganised and may struggle to make tough decisions. I am also aware that I can struggle to commit to long term projects. These are weaknesses I would keep in mind when forming a team. 
+When forming a team, I would seek to ensure I have a balance of different personality types and learning styles. It is clear that different people bring different qualities and experiences to a team environment. Having an understanding of my own strengths and weaknesses would impact my decisions when forming an ideal team. Primarily, I would seek individuals who have strong organisation skills, attention to detail and who are task motivated. This would ensure that creative ideas are actualised and implemented in a more practical manner than my exisiting abilities would otherwise permit.
+<!-- Test results and comments added 7.4.19-->
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
+Ideal Job:
+My ideal job is a Software Engineer with Apple. The link above currently advertises a Software Engineer role with the data security team. This position involves building novel crypto and security products. It is targeted at software engineers who have a passion for dealing with security challenges to help keep Apple data, services and interactions safe and private. This position appeals to me as this role emphasises innovation and collaboration. The role is very technical, requiring excellent programming skills and a good understanding of security concepts and design patterns. While the role is beyond my current skills and qualifications, it is something I would like to work towards.
 
+<!-- 7.4.19 Aaron will need to comment on how his ideal job compares to the rest of the group. I posted on Canvas to let him know-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
-<h2>GROUP STRENGTH</h2>
-<p>
-The results of the personality tests are important as they show how people interact, learn and behave. Having this information helps the team understand each other better. 
-This can be useful when discussing or presenting new ideas, assigning tasks and making sure everyone understands their role.
-<!-- I think this section should be done as a group, maybe we can all write a quick summary of how we interpret the personality test results and collectively vote on what to put here -->
-</p>
+<br/>
+
+<!-- 6.4.19 Completed final edit and corrected spelling an grammar for everyone's data -->
+<!-- Addedd Aaron's info. Just waiting for his ideal job comments and this file will be complete -->
 
 
 
