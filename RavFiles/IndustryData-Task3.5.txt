@@ -1,5 +1,11 @@
 IndustryData-Task3.5.txt
 
+Name: Rav
+
+Ideal Job: Network Engineer
+
+Their main role in the company is to design, implement and maintain the computer networks within a company. As opposed to network administrators that handle more day to day support of the network, a network engineer focuses on high level design and planning. By selecting the correct technologies and making sure they are implemented correctly, network engineers ensure a high performing network for all its users.
+
 What are the job titles for your groups ideal jobs?
 
 Jon - Software Engineer/ Solutions Architect
@@ -11,12 +17,66 @@ Rav - Network Engineer
 
 How do each of these rank in terms of demand from employers?
 
+
 Software Engineer/ Solutions Architect - This job ranks first on Burning Glass
 
-Senior Financial Planner - No related info as it's a different industry <!-- Anthony said to say this on the Q&A thread 	for a group in a similar position, they even had a financial planner in the group-->
+Senior Financial Planner - No related info as it's a different industry
 
 Systems Administrator - This job ranks 8th on Burning Glass
 
-IT Consultant - <!-- Find data on this as it's not listed on burning glass -->
+IT Consultant - No related info as it's not included in Burning Glass but the closest job this would be is Systems Administrator, therefore this job ranks 8th on Burning Glass
 	
 Network Engineer - This job Ranks 9th on Burning Glass
+
+
+What are the set of skills required for my ideal jobs:
+
+General Skills:
+- Communication Skills
+- Problem Solving
+- Teamwork/Collaboration
+- Troubleshooting
+- Planning
+- Creativity
+- Leadership
+- Multi-tasking
+- Analytical Skills
+- Troubleshooting
+
+IT Specific Skills:
+- Microsoft Windows
+- Technical Support
+- Systems Engineering
+- Oracle
+
+How do the IT-Speciifc skills in your required skill set rank in terms of demand from employers?
+- Microsoft Windows - 4th
+- Technical Support - 11th
+- Systems Engineering - 24th
+- Oracle - 19th
+
+How do the general skills in your required skill set rank in terms of demand from employers?
+- Communication Skills - 1st
+- Problem Solving - 2nd 
+- Teamwork/Collaboration - 5th
+- Troubleshooting - 6th
+- Planning - 7th
+- Creativity - 9th
+- Leadership - 11th 
+- Analytical Skills - 17th
+- Multi-tasking - 20th
+
+What are the there highest ranked IT-specific skills which are not requird in your skillset?
+- SQL
+- Javascript
+- Java
+
+What are the three highest ranked general skills which are not in your required skillset?
+- Organisationals Skills
+- Writing
+- Detail-Oriented
+
+
+Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+
+I think it shows that while you don't need a lot of technical skill to do the job, however, you do need a lot of various general skills in the way you think, i.e problem solving, troubleshooting, planning. Of course, there is a level of technical skill that you require in order to perform your job as expected by your employer, but the choice the employer makes on who he chooses to hire, I believe, is weighted more upon their general skills.
