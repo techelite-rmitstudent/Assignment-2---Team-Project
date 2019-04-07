@@ -124,7 +124,27 @@ A: 	Yes, it actually showed me that there are lot more general skills applicable
 
 <h1>Damian</h1>
 <p>
+Network Engineer – Data Centre:
+
+Data centre engineers are the backbone of data centres with the progression of cloud services such as Google, Microsoft, Amazon all progressing with their services to help clients and their businesses data centre engineers are from what I can see are in high demand.
+Responsibilities:
+The main responsibilities as an engineer are:
+•	Design and implement networks and infrastructure.
+•	Monitor networks and infrastructure and do maintenance when required.
+•	Analyse network traffic and report what is in demand.
+•	Monitor for security risks and breaches.
+Skills and Certifications:
+•	Cisco Certified Network Professional (CCNP)
+•	Cisco Certified Network Associate (CCNA)
+•	Data centre infrastructure management and experience.
+•	Cisco Unified computing system capabilities.
+•	Experience with load balancing and unified systems.
+•	Network engineering experience.
+Salary:
+As a data centre network engineer your salary can range from $85,012 to $128,956 per year with the potential to earn more and have the flexibility of other job opportunities.
+The source I used for this information is here: https://www.fieldengineer.com/skills/datacenter-network-engineer
 </p>
+
 <h1>Jaime</h1>
 <p>
 </p>
