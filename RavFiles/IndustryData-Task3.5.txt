@@ -1,0 +1,22 @@
+IndustryData-Task3.5.txt
+
+What are the job titles for your groups ideal jobs?
+
+Jon - Software Engineer/ Solutions Architect
+Dane - Senior Financial Planner
+Jaime - Systems Administrator
+Damian - IT Consultant
+Rav - Network Engineer
+
+
+How do each of these rank in terms of demand from employers?
+
+Software Engineer/ Solutions Architect - This job ranks first on Burning Glass
+
+Senior Financial Planner - No related info as it's a different industry <!-- Anthony said to say this on the Q&A thread 	for a group in a similar position, they even had a financial planner in the group-->
+
+Systems Administrator - This job ranks 8th on Burning Glass
+
+IT Consultant - <!-- Find data on this as it's not listed on burning glass -->
+	
+Network Engineer - This job Ranks 9th on Burning Glass
