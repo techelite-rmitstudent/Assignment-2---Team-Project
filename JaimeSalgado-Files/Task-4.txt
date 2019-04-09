@@ -1,0 +1,82 @@
+A Day in the Life of an "IT Professional" link -- https://certification.comptia.org/it-career-news/post/view/2017/05/19/a-day-in-the-life-of-an-it-pro-tier-1-help-desk-specialist
+
+Earlier this year we caught up with Mai Yia Vue, a Creating IT Futures IT-Ready graduate who was offered a position as a help desk specialist for U.S. Bank in Minneapolis after earning CompTIA A+. Nine months into her first IT job, we checked back in with Mai to learn about her job and her plans for the future.
+
+When we first talked to you about your experience with IT-Ready, you were working as a help desk specialist for U.S. Bank – are you still working there?
+Yes, I’m still an IT help desk specialist at U.S. Bank. We provide support for internal U.S. Bank employees who have technical issues. I’ve been in this position for about nine months now.
+
+Can you describe what a typical workday looks like for you?
+A typical day begins with logging in and setting up all of my programs for the day. As an IT help desk specialist, I am responsible for the support of numerous systems. I always have at least 10 different applications open. Once I’m set up, I’m assigned to take either calls or chats. Both are set up in a way that I’m “on-call” for incoming calls or chats. The work I do daily is pretty broad. Some examples include password resets, how-to’s, break/fix, uninstall/reinstalls or escalations for larger issues as needed.
+
+When you accepted this position, did you have all of that knowledge, or was there some training involved?
+Everything isn’t done from scratch or memory. I have access to documentation that helps – a knowledge base of sorts. During training and actually being on the job, it was challenging to apply what I learned in a real scenario. But, it’s part of taking on a new job. You have to know that the hands-on work is going to be a lot different than your training.
+
+What are the most common questions you get from people who call or chat in?
+The most common questions come after I help them resolve their issue. Users tend to ask what can they do to prevent the issue from happening again. They are usually very interested in learning about the systems they work with and about computers in general.
+
+I give CompTIA A+ credit for familiarizing me with the terms and understanding critical concepts that are necessary for me to be effective at my job.
+You’ve been on the job for about nine months now – what has been the biggest surprise?
+My colleagues and I are the first line of defense for issues that happen within the technology side of the company. It’s a huge responsibility, as issues can range from software features not working correctly to whole servers being down, and that can cause the company to lose money. It intimidated me at first, but I’m glad I’m part of this important team.
+
+Setting the initial intimidation of such a huge responsibility aside for a moment – what do you enjoy the most about what you do?
+Most definitely, the best part of my day is when, as a Tier 1 specialist, I am able to resolve the issue. That means that the user who called or chatted in is up and running again and they don’t have to wait for a more experienced technician to get involved. It feels great to be able to help a colleague.
+
+You mentioned that you’re a Tier 1 specialist. What challenges did you face as an entry-level IT pro coming into your first job in the field?
+The main challenges are all about content. Working in a support center that handles several different applications can be overwhelming. It took time to nail them all down. The learning is continuous. As systems in the company change, new things appear. It’s challenging to keep up.
+
+And, what do you do to keep up?
+I always ask questions whenever I don’t understand something. I am lucky that my service center always has a chat open with the other technicians. We use this chat to post questions and help each other out. I reach out to my managers as well and they are always happy to help. As new things come into play I take notes and keep them handy. You really have to make it a priority to stay on top of what’s new while reviewing the standard content.
+
+Mai Vue in the computer lab at IT-Ready
+That brings me to your CompTIA A+ certification. Do you use what you learned in this position?
+Yes. Having the A+ knowledge definitely helps me. I give CompTIA A+ credit for familiarizing me with the terms and understanding critical concepts that are necessary for me to be effective at my job.
+
+What do you see in your future? What’s the next step in your IT career?
+I am very interested in the knowledge base we have at our service center. I would like to be a part of the team that does research and updates the knowledge base so that we’ll have even more resolutions upon the first interaction with the user. I’m still working on becoming an expert at my job so I can help our team work even better together. U.S. Bank has many IT positions that are more specialized. Once I have made myself an expert in this role – who knows? I may want to move into a more specialized field.
+
+Do you have plans to pursue any other CompTIA certifications?
+I do plan, in the future, to get more certifications in either networking or servers. As first-level support, I would like to learn more about these critical issues.
+What’s the one piece of advice you would give to someone who would like to transition into a career in IT?
+The learning process is ongoing – it will take time. My managers told me that it takes six to eight months for one to become familiar and comfortable in my current position. It’s important not to be hard on yourself if you make mistakes, but just learn from them. Do your best and ask for help when needed. And, know that you’re definitely not alone in your questions! Lastly, really put those soft skills you learned in class to use in your first job – they will help a lot!
+
+A Day in the Life of an "System Administrator"
+
+Read more at https://www.inap.com/blog/a-day-in-the-life-of-a-system-administrator/#wkBId817JxXAtqYz.99
+
+I’m a system administrator (sys admin) for INAP.
+
+This is a really tough topic to be concise about because any particular day in the life of a Server Intellect sys admin is pretty different than any other day. I mean, the differences are so vast, I don’t know how anyone who’s truly interested in the meat of the tech could ever get bored.
+
+When my friends and family ask what I do, I like to tell them to think of me like an Internet Handyman. Our clients reach out and say “Hey, my such and such is broken, do you guys handle that?” and at Server Intellect, the answer is pretty much always “absolutely we do”.
+
+Starting The Shift
+I work during the first shift of the day, which is generally the busiest since folks from all over the world wake up and get to work right before we arrive. We are never NOT staffed with admins to respond to an issue, so my other first-­shifters come in and take the baton from our overnight team, who gives us a quick run­down on what requests or tasks from our European and Indian clients are still lingering or need more time or attention from the night before.
+
+The clients overseas are doing business and can run into any old thing that may need addressing. I am usually making coffee while absorbing the details of the rundown. Its not long after this conversation that our US and Canadian clients will send in the initial wave of reports that need attention that morning.
+
+Working The Queue
+This is where the “every day is different” part of my job starts. We keep a queue of support requests (called tickets) that customers submit, and there’s a 40-inch screen at the north wall of the room that tells us all how many tickets need attention, how many new server orders need for someone to jump in and preconfigure a best­-practice environment before handing over the passwords to the client, and how many clients are currently in migration.
+
+Our overnight guys are great, so generally we come into only about three-to-five unresolved tickets on the board, but they start to climb as the day ticks on.
+
+What kind of stuff comes in on a ticket? Every client is as different as every workday. They may have noticed that their contact form is not working as expected on their website, or that they’re seeing a ton of their email bounce back suddenly. After some time in the job, you start to get a feel for what the usual suspects might be for any particular issue. But honestly, anything’s game.
+
+The text on your webpage is all scooted over to the left and none of the images are loading? That’s a new one, but I’ll dig around and give you something tangible to take back to your developer for tweaks even if it takes me a few hours to really uncover something useful.
+
+Prepared for Anything
+I’ve got a bundle of tools that I’ve collected over the years to help me watch filesystem and network activity that happen too instantaneously for the system to reasonably keep in a log file, so I’m no stranger to watching what your web application is TRYING to do even if it fails for some reason, and it generally gets me pretty quick answers. And often enough, it’s not even simple development tweaks or email reputation report that need to be shared with a client, but stuff that’s even more nefarious.
+
+Once, one of our clients terminated a member of their staff, and the bitter ex-­employee leaked the client’s live database password online and they woke up to a very different site than they were used to hosting. Instead of custom baby furniture, they had a site that was turned into a huge billboard for counterfeit sneakers. We keep a daily backup of each customer’s entire server instance, so it’s not uncommon for me to roll things back a few hours or even a whole day if something crazy like that happens. Once in a blue moon a manufacturer will ship us bad RAM sticks, and basically every file the system touches gets corrupted. Days like that make me bow to the backup gods and sing in languages that didn’t exist before then.
+
+The INAP Culture
+We have a steady stream of admins either starting or ending their workday every few hours. I get a few glasses of water and a stretch in before I give my brain a break for lunch. A couple of the other admins and I love to play Magic the Gathering, so we may sling some spells at each other for an hour or so before jumping back into the pile.
+
+Things really never stop for us though, and it’s really cool to watch. You may start the day and pick up halfway through a data copy operation somebody asked for the night before, and at the end of the day, the customer’s decided they want bigger hard drives again. You spend the day coordinating a time to install with the client and arranging for the downtime and upgrade at the data center. By the end of your time in the office for that day, you’re handing the ticket to the evening guys with a brand new data transfer in progress for the same customer, and it’s all getting 24/7 attention like clockwork.
+
+It’s not all crazy fireballs to dodge though. We have a good time doing what we do. One of our admins brings in his grill and does cookouts every few weeks. We have an arcade machine that we’re working on restoring whenever we get some free time, and there is a dark room with couches for passing out when you just need that extra hour of sleep that day. All in all, I love my career, and I have no idea what I’ll be doing tomorrow. That’s pretty exciting if you ask me.
+
+Updated: January 2019
+
+
+Read more at https://www.inap.com/blog/a-day-in-the-life-of-a-system-administrator/#wkBId817JxXAtqYz.99
+
