@@ -1,6 +1,19 @@
 <!-- I have created this file to document my brainstorming ideas for Task 5 - Project Idea -->
 
 Will it include measures to make sure that the app itself can't be hacked, or how will it prevent scammers from recreating a "green light".
-E.g scammers create a hack to let the email slip through and green light the email. people then mistakenly trust that its ok.
+E.g scammers create a hack to let the email slip through and green light the email. People then mistakenly trust that its ok.
+
+What technology will be inplace to prevent this?
+
+What skills will we need to ensure we get that right?
+
+In regards to testing the project, how would we do that? Would we use our own develpoed skils to try and see if we can beat it?
+
+Would we contract an external specialist such as Acumenis (BNE based pentration testing company) to test it for us?
+
+What is the reason to make it not for profit? I think it has the potential to generate significant revenue if sold as a package to big business.
+I realise the intent is to help people too, but no reason we can't make money if we put a heap of work into it.
 
 Will it be usable on any device? What plans do you have to achieve this?
+
+Will different devices require different skilsets to implement? WHat are these?

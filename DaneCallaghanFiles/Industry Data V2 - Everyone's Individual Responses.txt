@@ -1,4 +1,5 @@
 <!-- This file was created to collect everyone's Industry Data response-->
+<!-- 11.4.19 Added Aaron's response to the file -->
 
 <h1>Jon</h1>
 
@@ -231,4 +232,21 @@ The source I used for this information is here: https://www.fieldengineer.com/sk
 </p>
 <h1>Aaron</h1>
 <p>
+Ideal Job: Software Engineer - Data Security Specialist.
+
+ 
+
+According to the data provided by Burning Glass, my ideal job ranks as the 11th most popular job title in the IT industry. The Burning Glass data also shows this occupation is the top occupation. The IT specific skills required for my job include applied cryptography, distributed system security, strong programming experience including C++, Go, Java and OOP concepts. The general skills required for this role include team work, communication, creativity, and attention to detail.
+
+ 
+
+According to the Burning Glass data, my IT specific skills required for my ideal job rank moderately in terms of the demand from employers. Out of the skills required of me, Java ranks the highest, coming in third on the Burning Glass data set. Software engineering and systems engineering rank lower in the data set. Of the general skills required for my ideal job, communication skills rank the highest, coming in at first place on the list. Team work and collaboration come in at fifth on the list, followed by detail orientated at eighth place and finally creativity in 9th place in the rankings. 
+
+ 
+
+The three highest ranked IT-specific skills which are not in my required skill set are SQL, Microsoft Windows and project management. The three highest ranked general skills which are not in my required skill set are problem solving, writing and troubleshooting. 
+
+ 
+
+Having looked at the Burning Glass data, my opinion of my ideal job has not changed. However I have learned that a number of the IT specific skills I will require for my job are not highly ranked in terms of demand from employers. The other realisation I have made is that skills and expertise in Apple products, software and operating systems will be somewhat niche when comparing the skills required and desired by the wider IT industry. The Burning Glass data highlights the demand for knowledge of Microsoft Windows, Microsoft C# and other systems such as LINUX.
 </p>

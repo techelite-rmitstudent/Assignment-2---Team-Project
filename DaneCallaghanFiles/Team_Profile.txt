@@ -209,14 +209,26 @@ When forming a team, I would seek to ensure I have a balance of different person
 <!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
 Ideal Job:
-My ideal job is a Software Engineer with Apple. The link above currently advertises a Software Engineer role with the data security team. This position involves building novel crypto and security products. It is targeted at software engineers who have a passion for dealing with security challenges to help keep Apple data, services and interactions safe and private. This position appeals to me as this role emphasises innovation and collaboration. The role is very technical, requiring excellent programming skills and a good understanding of security concepts and design patterns. While the role is beyond my current skills and qualifications, it is something I would like to work towards.
+My ideal job is a Software Engineer with Apple. According to the data from Burning Glass, this job title ranks as the 11th most popular job title. The other members of my group seek roles in the IT sector, when ranked in order of job titles include Software Solutions Architect, System Administrator and Network Engineer. IT Consultant and Financial Planner did not appear in the Burning Glass data for top job titles. 
+
+ 
+
+While all of these jobs (excluding Financial Planner) are common roles in the IT industry, I understand there will be both similarities and differences in the kinds of skills required for each position. The common elements for these jobs will be the baseline skills. According to Burning Glass data, these skills include things such as communication skills, problem solving, writing, team work, creativity and time management skills. For example, my team mate Jon aims to be a Software Solution Architect, while another team mate Rav aims to be a Network Engineer. While these job titles are different, they will have common baseline skills for the need to communicate effectively and work well together in a team to achieve results. 
+
+ 
+
+The things that I anticipate would differentiate our positions from each other will be our specialised skills. The Burning Glass data identifies specialised skills as things including Microsoft Windows, project management, JAVA, SQL, customer service, systems engineering etc. For example, my ideal job is a Software Engineer with Apple. My specialised skills will therefore be in Apple operating systems, which is in contrast to the Burning Glass data that ranks Microsoft systems as some of the most in demand specialised skills. 
+
+ 
+
+In the early stages of our professional development, our career paths will likely be similar. There will be a requirement for higher education, with all roles (excluding Financial Planner) requiring a degree in Information Technology (or similar degree). Therefore myself and my team mates will have a shared experience studying together and developing baseline and entry level skills to enter the IT sector. As we grow into our roles and progress in our careers, our paths will likely deviate as we continue to gain subject matter expertise and specialist skills in our chosen professions. 
 
 <!-- 7.4.19 Aaron will need to comment on how his ideal job compares to the rest of the group. I posted on Canvas to let him know-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
 <br/>
-
+<!-- 10.4.19 Updated Aaron's ideal job with comparison -->
 <!-- 6.4.19 Completed final edit and corrected spelling an grammar for everyone's data -->
 <!-- Addedd Aaron's info. Just waiting for his ideal job comments and this file will be complete -->
 
