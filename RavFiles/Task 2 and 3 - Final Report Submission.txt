@@ -1,0 +1,42 @@
+Group Website Link: https://techelite-rmitstudent.github.io/
+
+Group Repository Link: https://github.com/techelite-rmitstudent/Assignment-2---Team-Project
+
+Comments on how well the audit trail was on the Git Repository reflect's your group's work.
+
+Rav:
+- the link to group website:
+
+(Note for everyone)As discussed in the call, I will deal with adding the Team Profile sections into the site once Dane has collated everything and passed it onto me. I'll make a post for everyone to discuss any edits. I've provided all the base files in my Github folder as a backup, but since its an ongoing development I'll only backup the site once we are happy with it.
+
+- the link to your group's Git repository (GitHub): 
+
+I have installed my GitHub Desktop to help me organized my Git Repository Group links.
+
+- how well the audit trail on the Git repository reflects the group's work?: 
+
+Everyone has been doing well in keep their files updated within Github. We were all made owners of github account so we can add and update all our files easily. We were instructed not to change anyone else's documents as it we would change it permanently for everyone. Respecting that system and each other's work we are doing well in adding our own reponses to tasks within our folders.
+
+
+Damian:
+Already create my folden in the GitHub repository of our group, that help us to develop our website, as well as install the GitHub desktop, to facilitate the cloning of the necessary files, this way we will avoid the confusion and will facilitate the solving of problems in the codes.
+
+
+Jaime:
+Already create my folden in the GitHub repository of our group, that help us to develop our website, as well as install the GitHub desktop, to facilitate the cloning of the necessary files, this way we will avoid the confusion and will facilitate the solving of problems in the codes.
+
+Jon:
+- the link to group website:
+
+I have created my file folder in the repository for project item for building the group website that is not CLONED to the main project files so that the group Overseers can then have easy access and transfer my work to the main project folder. (Note: Changes in the main project is the most crucial situation in building software or a website with a group of people. Only overseers of the task should update or do some changes in the main project. This will minimize debug error, and group members will communicate in organised manner.)
+
+- the link to your group's Git repository (GitHub): 
+
+I have installed my GitHub Desktop to help me organized my Git Repository Group links and also for other easy option to commit and push my work to my folder in the repository I been using the GitHub Bush CMD pane.
+
+- how well the audit trail on the Git repository reflects the group's work?: 
+
+I have seen that all members do their best to give work efforts to complete the group Assessment 2. They created their own workspace folder to put all their work items. They keep the folder files organized. We could see who has updated their folders recently and we can easily check and find out what items are new. We reduce the error changing items when every team member become the owner of the repository. Members of the team are all aware of how crucial to editing someone's workspace. On this method, we build team trust in accordance with complimenting each other.
+
+Aaron:
+The repository has been an effective tool for storing all the work we have done collectively in one easy to access place. It allows us to review everything our team has done. The only limitation with the audit trail in my opinion is that is don't fully reflect our groups work, in that it is unable to fully capture the extent of group discussions and communications. For example, our interactions and contributions in these discussion boards and our group meetings. However, overall it is an effective way to capture the final output of the group. 

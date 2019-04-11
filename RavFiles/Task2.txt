@@ -3,8 +3,37 @@ Task2.txt
 Group 4 - Rav:
 
 I nominate "Jon" to be Overseer of Task 2 - Tools. 
-Since Jon is the team leader, I think its best if he is the owner of the Github account that hosts all our files for each of our project tasks as well as the files for the group website. 
+Since Jon is the team leader, I think it's best if he is the owner of the Github account that hosts all our files for each of our project tasks as well as the files for the group website. 
 
-Github Pages Group Website: http://techelite-rmitstudent.github.io/
 
-Link to Group Website Repo:
+These are my comments:
+
+I just read this today, thank you for organising it!
+
+I am happy to proof read all the code to make sure it all looks fine and works correctly. I have some experience in doing that so you are correct in my assignment to that role. Regarding the design of the group site, do you have any templates in mind for it or are you thinking of doing it from scratch?
+
+Some templates that Anthony recommended we can use (I think we need to provide attribution here)
+
+    Boilerplate (Links to an external site.)
+    Boilerplate Download (Links to an external site.)
+    HTML5up-Dimension (Links to an external site.)
+    HTML5up-Ethereal (Links to an external site.)
+    HTML5up-Hyperspace (Links to an external site.)
+    HTML5up-Stellar (Links to an external site.)
+    HTML5up (Links to an external site.)
+
+If you wouldn't mind creating the group repository in Github that would be great, I am learning it myself at the moment and I can't seem to think of a way to create a group project unless we have to create a whole new Github account just for this project? Also do we have a team name yet? We can use that as the group account name.
+
+Also regarding the report that we have to create, what is the best way we can collate the report? If we create a google document that all members have access to, that could be a good idea?
+
+- the link to group website:
+
+(Note for everyone)As discussed in the call, I will deal with adding the Team Profile sections into the site once Dane has collated everything and passed it onto me. I'll make a post for everyone to discuss any edits. I've provided all the base files in my Github folder as a backup, but since its an ongoing development I'll only backup the site once we are happy with it.
+
+- the link to your group's Git repository (GitHub): 
+
+I have installed my GitHub Desktop to help me organized my Git Repository Group links.
+
+- how well the audit trail on the Git repository reflects the group's work?: 
+
+Everyone has been doing well in keep their files updated within Github. We were all made owners of github account so we can add and update all our files easily. We were instructed not to change anyone else's documents as it we would change it permanently for everyone. Respecting that system and each other's work we are doing well in adding our own reponses to tasks within our folders.

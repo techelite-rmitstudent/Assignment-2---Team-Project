@@ -1,0 +1,6 @@
+Task 5 - Project Idea.txt
+
+Addition to section - Accessibility: 
+The project aims to be accessible to multiple users. There will be accessibility options built into this project, such as a voice over option for the visual impaired. The simple colour coding system also aims to overcome language barriers by applying a universal, easy to understand rating system for advice. <my addition>The colour coding system can also be calibrated for the different varieties of colour blindness, allowing users to adjust the levels of severity with a colour that is easily identifiable for them.<my addition>
+
+New section below Accessibility - Encryption: Any data we do collected will be anonymous and only to improve our algorithm in detecting dangerous emails. All information that is sent to our servers through our email plugin will be 256-bit end-to-end encrypted. This means that no one but the computers see's the data coming through to it. 

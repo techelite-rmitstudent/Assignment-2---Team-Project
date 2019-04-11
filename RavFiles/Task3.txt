@@ -10,4 +10,7 @@ My Contribution:
 - Added the template chosen by everyone called 'HTML5UpDimension', to the repo
 - Customised it to include the necessary Team Profile Sections, including a page for the submission
 - Created profile pages for each group member and added the anchor links so that when a user clicks on it, it will take them to the appropriate section in the member's profile page.
-- Added the team's information collated by Task 1 Overseer - Dane to each member's profiles   
+- Added the team's information collated by Task 1 Overseer - Dane to each provide member's profiles - Dane has provided each member's profile
+
+Teams Contribution:
+- Checked and verified their profiles and provided any missing details to their profiles and their website
