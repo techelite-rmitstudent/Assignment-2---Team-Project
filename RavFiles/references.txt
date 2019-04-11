@@ -1,15 +1,26 @@
 Links used:
 
-Building Website
-https://fontawesome.com/
-https://unsplash.com/
-https://www.w3schools.com/css/css3_backgrounds.asp
-https://www.w3schools.com/html/html_id.asp
+Building Website:
+
+Unsplash.com. (2019). Beautiful Free Images & Pictures | Unsplash. [online] Available at: https://unsplash.com/ [Accessed 11 Apr. 2019].
+
+W3schools.com. (2019). CSS Multiple Backgrounds. [online] Available at: https://www.w3schools.com/css/css3_backgrounds.asp [Accessed 11 Apr. 2019].
+
+Fontawesome.com. (2019). Font Awesome 5. [online] Available at: https://fontawesome.com/ [Accessed 11 Apr. 2019].
+
+W3schools.com. (2019). HTML id. [online] Available at: https://www.w3schools.com/html/html_id.asp [Accessed 11 Apr. 2019].
+
 
 Writing IT Technologies Response:
-https://en.wikipedia.org/wiki/Self-driving_car
 
-Writing IT Work Response:
-https://www.pcage.edu/2017/10/08/a-day-in-the-life-of-a-network-engineer/
-https://blog.growthfunders.com/a-day-in-the-life-dan-ord-senior-php-developer
-https://www.youtube.com/watch?v=ORZlHuD22UQ
+En.wikipedia.org. (2019). Self-driving car. [online] Available at: https://en.wikipedia.org/wiki/Self-driving_car [Accessed 11 Apr. 2019].
+
+
+IT Work Response:
+
+Hilario, H. (2019). A Day in the Life of a Network Engineer - Computer Training NJ | Computer Courses NJ. [online] Computer Training NJ | Computer Courses NJ. Available at: https://www.pcage.edu/2017/10/08/a-day-in-the-life-of-a-network-engineer/ [Accessed 11 Apr. 2019].
+
+Dargue, J. (2019). A Day In The Life: Dan Ord, Senior PHP Developer. [online] Blog.growthfunders.com. Available at: https://blog.growthfunders.com/a-day-in-the-life-dan-ord-senior-php-developer [Accessed 11 Apr. 2019].
+
+YouTube. (2019). This Is What A Typical Day In The Life Of A UX Designer Looks Like. [online] Available at: https://www.youtube.com/watch?v=ORZlHuD22UQ [Accessed 11 Apr. 2019].
+
