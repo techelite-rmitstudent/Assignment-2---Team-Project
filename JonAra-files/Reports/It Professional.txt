@@ -1,0 +1,41 @@
+" SOFTWARE / SOLUTION ARCHITECT "
+
+Reported by: Jon 
+What kind of work is done by the Solution Architect?
+Article Comments: 
+REF Article 1: [.] “Not all solutions architects do architect work.” Architects tend to be more involved with the overall design of the project, and not so much with the simpler implementation tasks, which is more for engineers. In day to day of a (SA)Architect may fall on reviewing existing environments, planning new ones, traveling abroad, building huge infrastructure for massive companies, doing migrations, writing scripts, scripting infrastructure, taking exams, studying, all sorts. Some (SA)Architect may require travel. (SA)Architect might be exposed working on troposphere CloudFormation environments, scripting code deploy and Jenkins integrations, writing python scripts using BOTO to create new VPCs and link with VPNs dynamically, building RPMs, chef cookbooks for application deployment, you name it. 
+REF Article 2: [.] Most Solution Architect (SA) will be involved in management discussions whenever new project proposal or requirements come to the team or company. He is responsible for giving inputs on time is taken for project completion, risks, complexities, resources required, manpower required, etc.  His inputs are most valuable to management to take the decisions for any projects.  Management will try to leverage his knowledge to take important project decisions.
+My Comments:
+“In my observation Solution Architect and Engineer are totally in a different area, however, they are always related to each other. You can either do the same position but always different ways and just related. In my investigation Solution Architect can attain training in AWS Amazon Web Services and have certification. The most business using this cloud computing platform to utilize for their growing business to manage their interaction with their clients producing analysis and report as AI application minimizing paper works and workload for producing reports to all department of the business. This is not requirements for Solution Architect rather a helping hand to do the role with high-quality performance especially if you are working along with the business have data server structure in AWS. I notice that the Solution Architect always-on design, planning, and management. Solution Architect brainstorming knowledge throughout the team. Even Solution Architect is not on hands-on duties but should always have wide knowledge in various different methods which really helps the team produce high quality and productive product. “
+-	Jon Ara
+What kinds of people does the Solution Architect interact with? 
+Article Comments:
+REF Article 1: [.] Most Solution Architect (SA) “focus on a specific set of products and therefore don't have specific customers, but most have dedicated customers”. The list of duties for a customer depends on that customer's current level of AWS adoption. In the beginning, it involves a LOT of intro talks with lots of teams. 
+REF Article 2: [.] Solution Architect (SA)keeping knowledge sharing with team members and newcomers. Helping team during project deliveries and follow up with other teams for whatever required to deliver the project on time.
+My Comments:
+“I notice that Solution Architect does not have much hands-on interaction with costumer rather just have a role of making sure that the team produces what is requires and making the product in the highest level of quality for their costumer. In my investigation, most of the time the Interviewer or Business consultant are the one engaging on the process getting information from the client to pass onto the team and then Solution Architect will make a plan how to built the product item per item involving Software Engineer in the process. Solution Architect is more involved with the team enhancement, follow-ups, and progress of the project meaning the Solution Architect are always interacting with the people who have the same field desire of Information Technology.”
+-	Jon Ara
+Are they also other IT professionals? Clients? Investors? The general public?
+Article Comments:
+REF Article 1: [.] Most Solution Architect require source knowledge or pre-sales work meaning outsourcing the other methods outside the company’s capabilities.  Solution Architect often interacts with mixed teams, so you learn how to quickly answer high-level questions on a variety of topics. Later on, as the customer takes their first steps, it may involve POCs, whiteboard sessions, and collaboration with an implementation team (either internal or external to the customer). The career outlook for Solution Architect is fantastic and lots of opportunities internally and externally. Sourcing from LinkedIn interest, even without actively promoting some of the massive worldwide companies that Solution Architect worked with.
+REF Article 2: [.] A Solution Architect does sync up calls with onshore teams for anything (project related, issues follow up, customer related issues, knowledge transfer, future projects discussions and follow up project road maps, etc).
+My Comments:
+“I notice that Solution Architect can be a client because most of Solution Architect have may build lots of portfolios specializing in a particular area in the IT industry. Other Solution Architect may engage to other Solution Architect to get their project done, meaning they can also be in the general public as an observer.”
+-	Jon Ara
+Where do the Solution Architect spend most of their time?
+Article Comments:
+REF Article 1: [.] Most Solution Architect is generally on the sales side of the house. They know a ton about AWS and different use cases and best practices but they don't normally get into the thick of the project. They spend a lot of time designing the best case and trying to crystal ball what it will cost.
+My Comments:
+“In my observation Solution Architect most involved in planning case to case bases and making the team achieving the target goal and not as hands-on duties like the Software Engineer rather an organizer or planner which have wide knowledge in a different type of methods and platforms that includes knowledge to all new development available in the market. In my investigation Solution Architect always outsourcing new ideas from different types of IT department to create a new product that will help to provide the requirements on the project.”
+-	Jon Ara
+What aspect of their position is most challenging?
+Article Comments:
+REF Article 1: [.] It’s easy to let yourself get out of shape, and it’s your responsibility to come up with little projects to get hands-on practice with a new service or feature (and you really do need to do this - without getting hands-on it’s WAY too common to think that something can be easily done when in fact it’s difficult or impossible, or just simply not the right way to do it). Technically that’s part of your job, but of course, just keeping all the various balls in the air and context switching between customers takes up the whole day if you let it, so time management skills are critical.
+My Comments:
+“In my observation Solution Architect have limited area in developing his skills for hands-on building the product but what makes him to be a good Solution Architect should then know all available methods or platform in building their product, so meaning still have to take knowledge intake and be updated as much as possible be skilled like the Software Engineers who actually involved in creating the product. In my investigation, the Solution Architect can also be a Software Engineer as they are closely working to each other. It is up to the person how to enhance their skills in the technical aspect of Information Technology skills.”
+-	Jon Ara
+
+References:
+REF Article 1: [ https://www.reddit.com/r/aws/comments/44rt9p/solution_architects_what_is_a_day_in_the_life_like/ ]
+REF Article 2: [ https://www.quora.com/What-are-the-day-to-day-activities-of-a-software-architect
+

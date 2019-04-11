@@ -1,9 +1,0 @@
-https://www.reddit.com/r/aws/comments/44rt9p/solution_architects_what_is_a_day_in_the_life_like/
-
-•	What kind of work is done by the IT professional?
-Aticle Comments:
-	 Architects tend to be more involved with overall design of the project, and not so much with the simpler implementation tasks, which is more for engineers.
-•	What kinds of people does the IT professional interact with? 
-•	Are they other IT professionals? Clients? Investors? The general public?
-•	Where does the IT professional spend most of their time?
-•	What aspect of their position is most challenging?
