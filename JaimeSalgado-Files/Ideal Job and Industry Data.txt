@@ -1,0 +1,41 @@
+I find this information in https://www.careersfoundation.com.au/technicalsupport, 
+and it's part of IT Manager or Systems Administrator.
+
+Technical Support
+Technicians use their knowledge of software and IT to solve users problems, this is recorded for future use.
+
+Degree:
+
+TAFE:
+
+Certificate in Information Technology
+
+Undergraduate:
+
+Bachelor of Information Technology
+
+Bachelor of Computer Science
+
+Skills: Problem solving, technical knowledge, troubleshooting, communication
+
+Salary: 45k - 95k
+
+>>>> And for Systems Administrator 
+
+Examples of Systems Administrator responsibilities
+* Manage system infrastructure including, databases, testing computer equipment, firewalls, malware and other software and hardware.
+* Provide technical support for both hardware and software issues that may arise.
+* Monitor the system daily and respond quickly to any security breaches or usability concerns.
+* Backup systems and verify that backups have been completed.
+* Regularly upgrade systems as needed.
+* Assist in integrating new applications and technologies into the current system.
+
+Examples of Systems Administrator skills
+* Associate degree or higher in related field.
+* 2+ years experience as a system administrator.
+* Ability to respond to help desk requests after hours.
+* Expert knowledge of system security concerns and vulnerabilities.
+* In-depth knowledge and experience with VMware.
+* Familiarity with Linux operating systems.
+
+
