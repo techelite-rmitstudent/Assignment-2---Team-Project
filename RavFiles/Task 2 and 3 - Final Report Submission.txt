@@ -40,3 +40,8 @@ I have seen that all members do their best to give work efforts to complete the 
 
 Aaron:
 The repository has been an effective tool for storing all the work we have done collectively in one easy to access place. It allows us to review everything our team has done. The only limitation with the audit trail in my opinion is that is don't fully reflect our groups work, in that it is unable to fully capture the extent of group discussions and communications. For example, our interactions and contributions in these discussion boards and our group meetings. However, overall it is an effective way to capture the final output of the group. 
+
+Dane:
+I think the GitHub log somewhat captures the work of the group. I think the issue with its inaccuracy
+stems from the fact that the group has also done a lot of work on Canvas too, which is not captured on GitHub. I think its great for documenting
+the work that people do specifically on Github but that's the limit.
