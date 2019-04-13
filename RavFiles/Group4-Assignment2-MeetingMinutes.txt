@@ -107,5 +107,21 @@ They also spoke about the report that we have to make and he suggested that we m
 
 Jon did highlight that in order to expand upon each person's IT Work articles, we should comment on each person article as well, he will expand more on a post.
 
-Meeting Coming Up
-Saturday 13th April 
+Meeting - Saturday 13th April 
+
+Agenda for this meeting:
+- Discussing any missing items/checking all tasks are completed
+- Discussing presentation of the report i.e Formatting, Grammar Check, Spell Check
+- Finalising Assessment 2
+
+To do list:
+Everyone to look at the Group Industry Data Compilation doc within All Task Final Report folder in Github and add comments for what missing for his industry data. Any space where we you need to add comments in your section is denoted by this: '...' . Make a file inside your GitHub folder for the comments and Jon will add it in.
+
+Everyone to add comments to the project idea. Include a text file in your group repo.
+
+Proof the submission after Jon compiles it. He will add a separate folder for this in the All Task Final Report folder. When proof reading a file, make a copy of the file and add your name in the file name i.e 'File name - Member name.docx' where member name is your name.
+
+Aaron to provide comments for the IT Work Articles to Jon. Aaron to also provide group reflection and references text files to Rav
+
+Coming Up
+Meeting - Saturday 14th April
