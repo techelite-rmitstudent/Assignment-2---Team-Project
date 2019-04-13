@@ -1,0 +1,49 @@
+" SOFTWARE / SOLUTION ARCHITECT "
+
+** What kind of work is done by the SOFTWARE / SOLUTION ARCHITECT ?
+As Software Engeniere is responsible for analyzing, designing and creating the different programs, based on knowledge in multiple areas, and types of programming languages ??that should be used to achieve the requested project.
+
+** What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+Software or solution architec must deal with different types of people, corporations, organizations etc. since it will have to demonstrate knowledge in different branches, to achieve the proposed objectives.
+
+** Where do the IT professionals spend most of their time?
+In analyzing the client's ideas and ordering them to create the code.
+
+** What aspect of their position is the most challenging?
+
+In which you can create from a few ideas in the air a program or functional app.
+
+" NETWORK ENGINEER "
+
+** What kind of work is done by the Network Engineer? 
+It is responsible for the communication networks to work in a company or organization. And will be in charge of data infractuture.
+
+** What kinds of people does the Network Engineer interact with? Are they other IT professionals? Clients? Investors? The general public?
+Normally deal with non-technical people, who assumed that any problem in the computer is due to a network failure, also must maintain a communication with service providers.
+
+** Where do the Network Engineer spend most of their time?
+In keeping the equipment optimized and functional for the demands of the company or organization.
+
+** What aspect of their position is the most challenging?
+
+The UI designer must think as a user, make it friendly and connect the ideas of the develop to make it work as the client wants.
+The challenge is to maintain stable channels of communication in the company or organization, and every day the systems are put to test, with data that no longer only contains text information, if not also must deal with audio, video, etc.
+
+
+" UX Designer "
+
+** What kind of work is done by the IT professional? 
+UX Designer, is the person or group that is responsible for creating the appearances of the programs, and we can say that it is the connection between the system and the end user. 
+
+** What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?
+
+Interact with the client that asks for the program, the developer how create and the end user that the program or app will be occupied.
+
+** Where do the IT professionals spend most of their time?
+
+I love it when a programmer spends time improving the UX of their system, and most of this time it for traying to make friendly the interfase==c
+
+** What aspect of their position is the most challenging?
+
+The UI designer must think as a user, make it friendly and connect the ideas of the develop to make it work as the client wants.
+
