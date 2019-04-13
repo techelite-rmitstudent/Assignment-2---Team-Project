@@ -1,0 +1,63 @@
+I find this information in https://www.burning-glass.com/research-project/stem/
+
+
+This is the only information I found in burning-glass and it does not say much about 
+the skill that is needed in other payouts I have found that this relates to IT Sopport
+
+Top Entry-Level STEM Occupations	Entry-Level Job Openings	Percent of Postings Requiring a BA or Higher	Percent of Postings Requiring a Sub-BA
+Information Technology
+Computer Support Specialist	121,426	34%	66%
+Software Developer / Engineer	95,182	86%	14%
+Systems Analyst			63,727	84%	16%
+Network / Systems Admin		32,682	62%	38%
+Database Administrator		21,582	63%	37%
+
+And en this web site https://myjobsearch.com/careers/system-administrator.html
+
+A system administrator is an individual who is responsible for developing and operating a computer system or a network. System administrators develop, install, and maintain a company or organisation’s computer system. The systems supported by these individuals include Local Area Networks, Wide Area Networks, network segments, Intranet systems, and Internet systems. They make sure that the individual elements of the system, which will include hardware and software, are working properly. Conducting this job properly will ensure that system users can access necessary networks at all times. If there are any problems with the systems, system administrators analyse the specific problems and fix them as appropriate. Even if everything is running smoothly, system administrators are kept busy by evaluating the status of the current systems. They assess the needs of the various network users and make sure that these needs are being met by the current computer systems. System administrators also make sure that the networks and systems are secure and may plan and subsequently implement different security measures. The job of a system administrator has become particularly important over recent decades with the rapid advancements in Information Technology and the ever-increasing reliance by companies and organisations upon computer systems and networks. As with many jobs in the Information Technology industry, more men than women choose to work as system administrators.
+SALARY
+The precise salary provided to a systems administrator will vary depending upon the nature and location of the employer. However, as a general guide, employees who have newly gained their position can expect to earn approximately £12,000 to £15,000. After a few years in the job, this figure may rise by approximately £10,000 to £15,000. Experienced system administrators can earn much more than this sum and it is not unusual for individuals who have gained a lot of experience in the field to earn between £40,000 and £50,000.
+RESPONSIBILITIES
+The typical tasks undertaken by system administrators include:
+Planning the appropriate system needs of a company
+Installing the appropriate systems
+Providing support for the systems throughout the working day
+Solving problems connected to the network and the systems
+Monitoring the network efficiency
+Performing regular backups and restoring information if necessary
+Liaison with the website hosting provider if necessary
+Applying patches and updates
+Identifying the needs of the company and assessing whether they are being met by the current system
+Planning security measures
+Implementing security measures
+Monitoring security measures and making sure the system is not coming under attack
+Ensuring that all the separate elements of the system are working together properly
+Educating company employees about computer security
+Performing light programming
+Managing and planning projects related to the systems
+Training other IT staff
+Providing easy to understand advice for company employees
+Setting up user accounts and retrieving information including passwords and account user names
+Monitoring the storage capabilities of the system
+QUALIFICATIONS
+Most system administrators hold degrees although this is not a strict requirement. Degree subjects which are particularly useful include computer science and a general information technology degree. There are also IT certifications which will look good on an individual’s CV. Microsoft offers a Microsoft Certified Systems Administrator (MCSA) certification, which will show that you are fully qualified to hold a position as a systems administrator. You will have to follow the precise syllabus and take several examinations before you are awarded with the official qualification.
+SKILLS
+System administrators will need to possess the following skills:
+Problem-solving skills
+A technical mind
+An organised mind
+Attention to detail
+In-depth knowledge of computer systems
+Enthusiasm
+Ability to describe technical information in easy-to-understand terms
+Good communication skills
+Discretion (since confidential data is held on computer systems)
+Patience
+WORKING CONDITIONS
+Most system administrators work in busy and pressured office environments. A lot of work will be conducted from their own office, for example fixing hardware. However, they will often be called upon by various employees to fix computer problems around the office. For this reason, the job can be tiring, since a lot of time is spent moving around the environment. System administrators usually work about forty hours per week but, if necessary, they may have to work overtime if the system needs immediate work and adjustments. Employees may also need to be on call during evenings and weekends, since computer problems can arise at any time. Physical discomfort can be a negative aspect of the job. Problems including strained eyes, back and neck ache, and wrist injuries, can arise from too much time spent around computers. Furthermore, the job can be stressful if sensitive or important information has been lost and you are the one responsible for retrieving it.
+EXPERIENCE
+No formal experience is needed prior to making an application. However, any evidence of previous experience with computers will look impressive to employers, as will evidence of using key skills, including problem solving skills.
+EMPLOYERS
+System administrators work in a wide range of companies, businesses, and organisations. A large percentage of employees work for professional, technical, or scientific industries and many of these individuals work for companies which revolve around computer systems design. However, other employers include financial institutions, government agencies, software publishers, and insurance companies.
+CAREER PROGRESSION
+System administrators may choose to move into several different jobs. Common choices include software programmers or administrators who specialise in different fields, such as network administrators and security administrators. The majority of system administrators choose to reject managerial roles if they are offered. This is because they enjoy the technical side of their job and this is reduced in more senior positions.
