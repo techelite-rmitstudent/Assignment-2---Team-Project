@@ -1,0 +1,19 @@
+Missing Items:
+
+*Rav
+-Project Rufus: Compiled file for submission
+-References: Compiled file for submission
+
+*Aaron
+-Industry Data: List of Specific Skills & General Skills with ranks.
+-Technology: Comments on selected topic
+
+*Damian
+-Industry Data:List of Specific Skills & General Skills with ranks.
+-Industry Data:Comments
+
+*Jaime'
+-Industry Data:List of Specific Skills & General Skills with ranks.
+-Industry Data:Comments
+-Technology: Comments on selected topic
+
