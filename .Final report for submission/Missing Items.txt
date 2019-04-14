@@ -1,8 +1,5 @@
 Missing Items:
 
-*Rav
--Project Rufus: Compiled file for submission
--References: Compiled file for submission
 
 *Aaron
 -Industry Data: List of Specific Skills & General Skills with ranks.
