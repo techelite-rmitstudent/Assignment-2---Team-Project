@@ -1,4 +1,4 @@
-- What are the job titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?
+﻿- What are the job titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?
 My chosen job title was Network Engineer which ranked 9th overall on the burning glass data. Our group consisted of the following job ranks: Software Engineer, Senior Financial Planner, Systems Administrator, IT Consultant, Network Engineer and Software Engineer - Data Security Specialist. They rank 1st, outside of IT industry, 8th, 8th, 9th and 11th respectively.
 
 - How do the IT-Specific skills in your required skill set rank in terms of demand from employers?
