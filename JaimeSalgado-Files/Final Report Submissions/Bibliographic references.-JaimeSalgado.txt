@@ -1,0 +1,8 @@
+TASK 3 - Assessment 3
+Detailed Description: Scope & Limits, Tools & Technologies, Testing.
+
+https://www.techradar.com/news/best-linux-server-distro
+https://fossbytes.com/best-linux-distros-for-programming-developers/
+https://techbeacon.com/app-dev-testing/5-key-software-testing-steps-every-engineer-should-perform
+
+TASK - 
